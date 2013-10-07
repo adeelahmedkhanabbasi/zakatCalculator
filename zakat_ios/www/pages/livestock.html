@@ -1,0 +1,53 @@
+<section id="livestock" data-transition="slide">
+
+    <header data-title="牲畜天课">
+    	<nav class="left"><a href="#" data-view-section="back"><span class="icon chevron-left"></span></a></nav>
+    </header>
+
+    <article id="main-article" class="list indented scroll active">
+ 
+    	<ul class="info">
+			<li>
+				<strong class="text bold">牲畜的天课条件</strong>
+				<span class="text tiny">
+
+				<b>1.</b> 拥有牲畜满一年。
+				<br />
+				<b>2.</b> 必须是在天然牧场或在非人工种植的草地牧放的。
+				<br />
+				<b>3.</b> 应课牲畜必须是用来取奶或繁殖的，而不是用来役用的。役用的牲畜是指：用来耕地、灌溉、驼物或运输的驼和牛等。 役用的牲畜不纳天课，因为它们属于人生活中的基本所需。但是，如果将这类牲畜用于出租获利，达到条件时，应从获得的租金中抽取现金的天课。
+				<br />
+				</span>
+
+	        </li>
+
+        </ul>
+
+    <div class="form">
+
+    	<ul><li>
+		<label class="absolute">牲畜种类：</label>
+    	<label class="select ">
+            <select class="typeoflivestock">
+                <option value="1">羊</option>
+                <option value="2">牛</option>
+                <!--<option value="3">骆驼</option>-->
+            </select>
+        </label>
+         </li></ul>
+
+ 
+
+		<fieldset><span class="icon" style="font-size: 1em; margin-top:2px;">只</span>
+			<form onsubmit="livestockCalculator(); return false;">
+			<input type="number" value="" placeholder="请输入需要计算的牲畜数量:" id="livestockInput">
+			</form>
+		</fieldset>
+        <br />
+		<button class="anchor margin-bottom livestockCalculator"><abbr>计算</abbr></button>
+
+		<br />
+        </div>
+
+    </article>
+</section>

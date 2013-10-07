@@ -1,0 +1,22 @@
+/Users/Ali/Home/zakat_android/platforms/android/bin/classes.dex : \
+/Users/Ali/Home/zakat_android/platforms/android/bin/classes/net/qmzh/zakat/BuildConfig.class \
+/Users/Ali/Home/zakat_android/platforms/android/bin/classes/net/qmzh/zakat/R$attr.class \
+/Users/Ali/Home/zakat_android/platforms/android/bin/classes/net/qmzh/zakat/R$drawable.class \
+/Users/Ali/Home/zakat_android/platforms/android/bin/classes/net/qmzh/zakat/R$layout.class \
+/Users/Ali/Home/zakat_android/platforms/android/bin/classes/net/qmzh/zakat/R$string.class \
+/Users/Ali/Home/zakat_android/platforms/android/bin/classes/net/qmzh/zakat/R$xml.class \
+/Users/Ali/Home/zakat_android/platforms/android/bin/classes/net/qmzh/zakat/R.class \
+/Users/Ali/Home/zakat_android/platforms/android/bin/classes/net/qmzh/zakat/test.class \
+/Users/Ali/Home/zakat_android/platforms/android/bin/classes/org/apache/cordova/core/Device$1.class \
+/Users/Ali/Home/zakat_android/platforms/android/bin/classes/org/apache/cordova/core/Device.class \
+/Users/Ali/Home/zakat_android/platforms/android/bin/classes/org/apache/cordova/core/InAppBrowser$1.class \
+/Users/Ali/Home/zakat_android/platforms/android/bin/classes/org/apache/cordova/core/InAppBrowser$2$1.class \
+/Users/Ali/Home/zakat_android/platforms/android/bin/classes/org/apache/cordova/core/InAppBrowser$2$2.class \
+/Users/Ali/Home/zakat_android/platforms/android/bin/classes/org/apache/cordova/core/InAppBrowser$2$3.class \
+/Users/Ali/Home/zakat_android/platforms/android/bin/classes/org/apache/cordova/core/InAppBrowser$2$4.class \
+/Users/Ali/Home/zakat_android/platforms/android/bin/classes/org/apache/cordova/core/InAppBrowser$2$5.class \
+/Users/Ali/Home/zakat_android/platforms/android/bin/classes/org/apache/cordova/core/InAppBrowser$2.class \
+/Users/Ali/Home/zakat_android/platforms/android/bin/classes/org/apache/cordova/core/InAppBrowser$InAppBrowserClient.class \
+/Users/Ali/Home/zakat_android/platforms/android/bin/classes/org/apache/cordova/core/InAppBrowser$InAppChromeClient.class \
+/Users/Ali/Home/zakat_android/platforms/android/bin/classes/org/apache/cordova/core/InAppBrowser.class \
+/Users/Ali/Home/zakat_android/platforms/android/bin/dexedLibs/cordova-3.0.0-b4b5ddc8fd68502e3d9d6e498699869e.jar \

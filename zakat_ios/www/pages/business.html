@@ -1,0 +1,53 @@
+<section id="business" data-transition="slide">
+
+    <header data-title="商业天课">
+    	<nav class="left"><a href="#" data-view-section="back"><span class="icon chevron-left"></span></a></nav>
+    </header>
+
+    <article id="main-article" class="list indented scroll active">
+ 
+    	<ul class="info">
+			<li>
+				<strong class="text bold">商品货物的天课条件</strong>
+				<span class="text tiny">
+
+				<b>1.</b> 必须达到起征额。即拥有的商品货物的价值达到黄金或白银的天课起征额（85克黄金，或595克白银）。
+				<br />
+				<b>2.</b> 达到起征额的商品货物经营或持有必须满伊历一年。
+				<br />
+				<b>3.</b> 必须用于以营利为目的的买卖交易中，因为安拉的使者（愿主福安之）说：“一切工作皆以人的意念为转移。”
+				<br />
+				</span>
+
+	        </li>
+
+        </ul>
+
+    <div class="form">
+
+        <ul><li style="text-align:center;">
+    		<label class="anchor" style="float:left; margin-top:6px;">按今日金价计算</label>
+    		<input type="checkbox" id="goldSilverBs">
+    		<label class="anchor" style="float:right; margin-top:6px;">按今日银价计算</label>
+	    </li></ul>
+		<br />
+		<form onsubmit="businessCalculator(); return false;">
+		<fieldset><span class="icon" style="font-size: 1em; margin-top:2px;">元</span>
+			<input type="number" value="" placeholder="现有商品货物价值: " id="businessInput1">
+		</fieldset>
+		<fieldset><span class="icon" style="font-size: 1em; margin-top:2px;">元</span>
+			<input type="number" value="" placeholder="现金及存款: " id="businessInput2">
+		</fieldset>
+		<fieldset><span class="icon" style="font-size: 1em; margin-top:2px;">元</span>
+			<input type="number" value="" placeholder="有望收回的债: " id="businessInput3">
+		</fieldset>
+		<fieldset><span class="icon" style="font-size: 1em; margin-top:2px;">元</span>
+			<input type="number" value="" placeholder="欠他人的债: " id="businessInput4">
+		</fieldset>
+		</form>
+        <br />
+		<button class="anchor margin-bottom businessCalculator"><abbr>计算</abbr></button>
+		<br />
+		</div>
+    </article>
+</section>

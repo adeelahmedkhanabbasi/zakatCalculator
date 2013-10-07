@@ -1,0 +1,121 @@
+2013-08-11 12:30:44.040 天课计算器[5197:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-11 12:30:44.095 天课计算器[5197:c07] Resetting plugins due to page load.
+2013-08-11 12:30:44.142 天课计算器[5197:c07] Finished load of: file:///Users/Ali/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/0F0292D1-3467-475B-B82B-2E629D6AED35/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8.app/www/index.html
+2013-08-11 12:32:48.081 天课计算器[5756:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-11 12:32:48.101 天课计算器[5756:c07] [CDVTimer][splashscreen] 5.053043ms
+2013-08-11 12:32:48.101 天课计算器[5756:c07] [CDVTimer][TotalPluginStartup] 5.559981ms
+2013-08-11 12:32:48.151 天课计算器[5756:c07] Resetting plugins due to page load.
+2013-08-11 12:32:48.199 天课计算器[5756:c07] Finished load of: file:///Users/Ali/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/0F0292D1-3467-475B-B82B-2E629D6AED35/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8.app/www/index.html
+2013-08-11 12:33:10.537 天课计算器[6089:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-11 12:33:10.556 天课计算器[6089:c07] [CDVTimer][splashscreen] 4.765034ms
+2013-08-11 12:33:10.557 天课计算器[6089:c07] [CDVTimer][TotalPluginStartup] 5.275965ms
+2013-08-11 12:33:10.606 天课计算器[6089:c07] Resetting plugins due to page load.
+2013-08-11 12:33:10.654 天课计算器[6089:c07] Finished load of: file:///Users/Ali/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/0F0292D1-3467-475B-B82B-2E629D6AED35/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8.app/www/index.html
+2013-08-11 12:33:10.701 天课计算器[6089:c07] THREAD WARNING: ['InAppBrowser'] took '12.327881' ms. Plugin should use a background thread.
+2013-08-11 12:34:54.852 天课计算器[6431:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-11 12:34:54.872 天课计算器[6431:c07] [CDVTimer][splashscreen] 4.649997ms
+2013-08-11 12:34:54.873 天课计算器[6431:c07] [CDVTimer][TotalPluginStartup] 5.207002ms
+2013-08-11 12:34:54.921 天课计算器[6431:c07] Resetting plugins due to page load.
+2013-08-11 12:34:54.968 天课计算器[6431:c07] Finished load of: file:///Users/Ali/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/0F0292D1-3467-475B-B82B-2E629D6AED35/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8.app/www/index.html
+2013-08-11 12:35:46.658 天课计算器[6768:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-11 12:35:46.678 天课计算器[6768:c07] [CDVTimer][splashscreen] 5.334973ms
+2013-08-11 12:35:46.679 天课计算器[6768:c07] [CDVTimer][TotalPluginStartup] 5.810022ms
+2013-08-11 12:35:46.728 天课计算器[6768:c07] Resetting plugins due to page load.
+2013-08-11 12:35:46.776 天课计算器[6768:c07] Finished load of: file:///Users/Ali/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/0F0292D1-3467-475B-B82B-2E629D6AED35/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8.app/www/index.html
+2013-08-11 12:38:41.411 天课计算器[7117:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-11 12:38:41.431 天课计算器[7117:c07] [CDVTimer][splashscreen] 4.702985ms
+2013-08-11 12:38:41.431 天课计算器[7117:c07] [CDVTimer][TotalPluginStartup] 5.249977ms
+2013-08-11 12:38:41.480 天课计算器[7117:c07] Resetting plugins due to page load.
+2013-08-11 12:38:41.528 天课计算器[7117:c07] Finished load of: file:///Users/Ali/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/0F0292D1-3467-475B-B82B-2E629D6AED35/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8.app/www/index.html
+2013-08-11 12:39:04.135 天课计算器[7450:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-11 12:39:04.154 天课计算器[7450:c07] [CDVTimer][splashscreen] 4.754007ms
+2013-08-11 12:39:04.155 天课计算器[7450:c07] [CDVTimer][TotalPluginStartup] 5.416989ms
+2013-08-11 12:39:04.204 天课计算器[7450:c07] Resetting plugins due to page load.
+2013-08-11 12:39:04.251 天课计算器[7450:c07] Finished load of: file:///Users/Ali/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/0F0292D1-3467-475B-B82B-2E629D6AED35/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8.app/www/index.html
+2013-08-11 12:40:08.171 天课计算器[7793:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-11 12:40:08.191 天课计算器[7793:c07] [CDVTimer][splashscreen] 4.777968ms
+2013-08-11 12:40:08.191 天课计算器[7793:c07] [CDVTimer][TotalPluginStartup] 5.398989ms
+2013-08-11 12:40:08.240 天课计算器[7793:c07] Resetting plugins due to page load.
+2013-08-11 12:40:08.288 天课计算器[7793:c07] Finished load of: file:///Users/Ali/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/0F0292D1-3467-475B-B82B-2E629D6AED35/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8.app/www/index.html
+2013-08-11 12:40:41.221 天课计算器[8128:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-11 12:40:41.241 天课计算器[8128:c07] [CDVTimer][splashscreen] 4.652977ms
+2013-08-11 12:40:41.242 天课计算器[8128:c07] [CDVTimer][TotalPluginStartup] 5.243003ms
+2013-08-11 12:40:41.291 天课计算器[8128:c07] Resetting plugins due to page load.
+2013-08-11 12:40:41.338 天课计算器[8128:c07] Finished load of: file:///Users/Ali/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/0F0292D1-3467-475B-B82B-2E629D6AED35/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8.app/www/index.html
+2013-08-11 12:42:17.524 天课计算器[8468:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-11 12:42:17.544 天课计算器[8468:c07] [CDVTimer][splashscreen] 4.956007ms
+2013-08-11 12:42:17.545 天课计算器[8468:c07] [CDVTimer][TotalPluginStartup] 5.546987ms
+2013-08-11 12:42:17.594 天课计算器[8468:c07] Resetting plugins due to page load.
+2013-08-11 12:42:17.641 天课计算器[8468:c07] Finished load of: file:///Users/Ali/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/0F0292D1-3467-475B-B82B-2E629D6AED35/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8.app/www/index.html
+2013-08-11 12:42:54.554 天课计算器[8802:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-11 12:42:54.574 天课计算器[8802:c07] [CDVTimer][splashscreen] 4.657030ms
+2013-08-11 12:42:54.575 天课计算器[8802:c07] [CDVTimer][TotalPluginStartup] 5.252957ms
+2013-08-11 12:42:54.624 天课计算器[8802:c07] Resetting plugins due to page load.
+2013-08-11 12:42:54.673 天课计算器[8802:c07] Finished load of: file:///Users/Ali/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/0F0292D1-3467-475B-B82B-2E629D6AED35/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8.app/www/index.html
+2013-08-11 12:44:15.895 天课计算器[9140:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-11 12:44:15.916 天课计算器[9140:c07] [CDVTimer][splashscreen] 4.969001ms
+2013-08-11 12:44:15.916 天课计算器[9140:c07] [CDVTimer][TotalPluginStartup] 5.643010ms
+2013-08-11 12:44:15.967 天课计算器[9140:c07] Resetting plugins due to page load.
+2013-08-11 12:44:16.015 天课计算器[9140:c07] Finished load of: file:///Users/Ali/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/0F0292D1-3467-475B-B82B-2E629D6AED35/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8.app/www/index.html
+2013-08-11 12:44:56.321 天课计算器[9473:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-11 12:44:56.340 天课计算器[9473:c07] [CDVTimer][splashscreen] 4.721045ms
+2013-08-11 12:44:56.341 天课计算器[9473:c07] [CDVTimer][TotalPluginStartup] 5.317986ms
+2013-08-11 12:44:56.391 天课计算器[9473:c07] Resetting plugins due to page load.
+2013-08-11 12:44:56.438 天课计算器[9473:c07] Finished load of: file:///Users/Ali/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/0F0292D1-3467-475B-B82B-2E629D6AED35/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8.app/www/index.html
+2013-08-11 12:46:04.982 天课计算器[9814:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-11 12:46:05.002 天课计算器[9814:c07] [CDVTimer][splashscreen] 4.729986ms
+2013-08-11 12:46:05.003 天课计算器[9814:c07] [CDVTimer][TotalPluginStartup] 5.288005ms
+2013-08-11 12:46:05.051 天课计算器[9814:c07] Resetting plugins due to page load.
+2013-08-11 12:46:05.103 天课计算器[9814:c07] Finished load of: file:///Users/Ali/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/0F0292D1-3467-475B-B82B-2E629D6AED35/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8.app/www/index.html
+2013-08-11 12:47:19.299 天课计算器[10157:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-11 12:47:19.319 天课计算器[10157:c07] [CDVTimer][splashscreen] 4.754007ms
+2013-08-11 12:47:19.319 天课计算器[10157:c07] [CDVTimer][TotalPluginStartup] 5.250990ms
+2013-08-11 12:47:19.367 天课计算器[10157:c07] Resetting plugins due to page load.
+2013-08-11 12:47:19.401 天课计算器[10157:c07] Finished load of: file:///Users/Ali/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/0F0292D1-3467-475B-B82B-2E629D6AED35/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8.app/www/index.html
+2013-08-11 12:50:52.014 天课计算器[10534:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-11 12:50:52.034 天课计算器[10534:c07] [CDVTimer][splashscreen] 4.801989ms
+2013-08-11 12:50:52.035 天课计算器[10534:c07] [CDVTimer][TotalPluginStartup] 5.609035ms
+2013-08-11 12:50:52.084 天课计算器[10534:c07] Resetting plugins due to page load.
+2013-08-11 12:50:52.118 天课计算器[10534:c07] Finished load of: file:///Users/Ali/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/0F0292D1-3467-475B-B82B-2E629D6AED35/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8.app/www/index.html
+2013-08-11 12:51:41.461 天课计算器[10868:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-11 12:51:41.482 天课计算器[10868:c07] [CDVTimer][splashscreen] 5.362034ms
+2013-08-11 12:51:41.482 天课计算器[10868:c07] [CDVTimer][TotalPluginStartup] 5.836010ms
+2013-08-11 12:51:41.532 天课计算器[10868:c07] Resetting plugins due to page load.
+2013-08-11 12:51:41.567 天课计算器[10868:c07] Finished load of: file:///Users/Ali/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/0F0292D1-3467-475B-B82B-2E629D6AED35/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8.app/www/index.html
+2013-08-11 12:52:21.247 天课计算器[11202:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-11 12:52:21.270 天课计算器[11202:c07] [CDVTimer][splashscreen] 5.194962ms
+2013-08-11 12:52:21.271 天课计算器[11202:c07] [CDVTimer][TotalPluginStartup] 5.644977ms
+2013-08-11 12:52:21.328 天课计算器[11202:c07] Resetting plugins due to page load.
+2013-08-11 12:52:21.363 天课计算器[11202:c07] Finished load of: file:///Users/Ali/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/0F0292D1-3467-475B-B82B-2E629D6AED35/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8.app/www/index.html
+2013-08-11 12:53:15.544 天课计算器[11537:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-11 12:53:15.564 天课计算器[11537:c07] [CDVTimer][splashscreen] 4.671991ms
+2013-08-11 12:53:15.565 天课计算器[11537:c07] [CDVTimer][TotalPluginStartup] 5.208015ms
+2013-08-11 12:53:15.614 天课计算器[11537:c07] Resetting plugins due to page load.
+2013-08-11 12:53:15.647 天课计算器[11537:c07] Finished load of: file:///Users/Ali/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/0F0292D1-3467-475B-B82B-2E629D6AED35/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8.app/www/index.html
+2013-08-11 12:53:45.472 天课计算器[11876:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-11 12:53:45.494 天课计算器[11876:c07] [CDVTimer][splashscreen] 5.084991ms
+2013-08-11 12:53:45.494 天课计算器[11876:c07] [CDVTimer][TotalPluginStartup] 5.553007ms
+2013-08-11 12:53:45.545 天课计算器[11876:c07] Resetting plugins due to page load.
+2013-08-11 12:53:45.581 天课计算器[11876:c07] Finished load of: file:///Users/Ali/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/0F0292D1-3467-475B-B82B-2E629D6AED35/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8.app/www/index.html
+2013-08-11 12:54:28.864 天课计算器[12214:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-11 12:54:28.884 天课计算器[12214:c07] [CDVTimer][splashscreen] 4.796982ms
+2013-08-11 12:54:28.885 天课计算器[12214:c07] [CDVTimer][TotalPluginStartup] 5.257964ms
+2013-08-11 12:54:28.934 天课计算器[12214:c07] Resetting plugins due to page load.
+2013-08-11 12:54:28.968 天课计算器[12214:c07] Finished load of: file:///Users/Ali/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/0F0292D1-3467-475B-B82B-2E629D6AED35/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8.app/www/index.html
+2013-08-11 12:55:09.887 天课计算器[12550:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-11 12:55:09.906 天课计算器[12550:c07] [CDVTimer][splashscreen] 4.869998ms
+2013-08-11 12:55:09.907 天课计算器[12550:c07] [CDVTimer][TotalPluginStartup] 5.541980ms
+2013-08-11 12:55:09.955 天课计算器[12550:c07] Resetting plugins due to page load.
+2013-08-11 12:55:09.989 天课计算器[12550:c07] Finished load of: file:///Users/Ali/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/0F0292D1-3467-475B-B82B-2E629D6AED35/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8.app/www/index.html
+2013-08-11 13:06:10.922 天课计算器[14891:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-11 13:06:10.942 天课计算器[14891:c07] [CDVTimer][splashscreen] 4.891992ms
+2013-08-11 13:06:10.943 天课计算器[14891:c07] [CDVTimer][TotalPluginStartup] 5.632997ms
+2013-08-11 13:06:10.994 天课计算器[14891:c07] Resetting plugins due to page load.
+2013-08-11 13:06:11.030 天课计算器[14891:c07] Finished load of: file:///Users/Ali/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/0F0292D1-3467-475B-B82B-2E629D6AED35/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8.app/www/index.html
+2013-08-11 13:06:11.065 天课计算器[14891:c07] THREAD WARNING: ['InAppBrowser'] took '10.541992' ms. Plugin should use a background thread.
+2013-08-11 13:20:13.967 天课计算器[16350:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-11 13:20:13.988 天课计算器[16350:c07] [CDVTimer][splashscreen] 4.835010ms
+2013-08-11 13:20:13.988 天课计算器[16350:c07] [CDVTimer][TotalPluginStartup] 5.502999ms
+2013-08-11 13:20:14.039 天课计算器[16350:c07] Resetting plugins due to page load.
+2013-08-11 13:20:14.077 天课计算器[16350:c07] Finished load of: file:///Users/Ali/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/0F0292D1-3467-475B-B82B-2E629D6AED35/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8.app/www/index.html
+2013-08-11 13:20:14.121 天课计算器[16350:c07] THREAD WARNING: ['InAppBrowser'] took '11.369873' ms. Plugin should use a background thread.

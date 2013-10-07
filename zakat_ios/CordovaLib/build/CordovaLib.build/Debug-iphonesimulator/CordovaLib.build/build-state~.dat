@@ -1,0 +1,1034 @@
+TCordovaLib
+v5
+r1
+cCheck dependencies
+cCpHeader Classes/CDVInvokedUrlCommand.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVInvokedUrlCommand.h
+cCpHeader Classes/NSDictionary+Extensions.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/NSDictionary+Extensions.h
+cCpHeader Classes/NSData+Base64.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/NSData+Base64.h
+cCpHeader Classes/CDVPluginResult.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVPluginResult.h
+cCpHeader Classes/CDVDebug.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVDebug.h
+cCpHeader Classes/CDVPlugin.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVPlugin.h
+cCpHeader Classes/CDVWhitelist.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVWhitelist.h
+cCpHeader Classes/NSMutableArray+QueueAdditions.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/NSMutableArray+QueueAdditions.h
+cCpHeader Classes/CDVURLProtocol.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVURLProtocol.h
+cCpHeader Classes/CDVViewController.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVViewController.h
+cCpHeader Classes/CDV.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDV.h
+cCpHeader Classes/CDVAvailability.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVAvailability.h
+cCpHeader Classes/CDVCommandDelegate.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVCommandDelegate.h
+cCpHeader Classes/CDVLocalStorage.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVLocalStorage.h
+cCpHeader Classes/UIDevice+Extensions.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/UIDevice+Extensions.h
+cCpHeader Classes/NSArray+Comparisons.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/NSArray+Comparisons.h
+cCpHeader Classes/CDVCommandQueue.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVCommandQueue.h
+cCpHeader Classes/CDVEcho.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVEcho.h
+cCpHeader Classes/CDVCommandDelegateImpl.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVCommandDelegateImpl.h
+cCpHeader Classes/CDVShared.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVShared.h
+cCpHeader Classes/CDVScreenOrientationDelegate.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVScreenOrientationDelegate.h
+cCpHeader Classes/CDVConfigParser.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVConfigParser.h
+cCpHeader Classes/CDVJSON.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVJSON.h
+cCpHeader Classes/CDVWebViewDelegate.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVWebViewDelegate.h
+cCpHeader Classes/CDVUserAgentUtil.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVUserAgentUtil.h
+cCpHeader Classes/CDVTimer.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVTimer.h
+cProcessPCH /var/folders/s_/l75dvshj1jg7_kvn4fzwpqp80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-dnpagamlvopookbmoampvdczouvn/CordovaLib_Prefix.pch.pth CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/NSData+Base64.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVPluginResult.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVPlugin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVWhitelist.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVEcho.o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVEcho.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVConfigParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVTimer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVShared.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/Ali/Home/天课计算器/v3/platforms/ios/build/libCordova.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+c0000000050EDEAFB0000000000000110
+t1357769467
+s272
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDV.h
+c000000005207136B0000000000000516
+t1376195435
+s1302
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+c000000005207136B0000000000000C65
+t1376195435
+s3173
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+c000000005207136B00000000000008BA
+t1376195435
+s2234
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+c000000005207136B0000000000000473
+t1376195435
+s1139
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m
+c000000005207136B000000000000126E
+t1376195435
+s4718
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+c000000005207136B0000000000000501
+t1376195435
+s1281
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m
+c000000005207136B000000000000152E
+t1376195435
+s5422
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVConfigParser.h
+c000000005207136B00000000000004CB
+t1376195435
+s1227
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVConfigParser.m
+c000000005207136B0000000000000E0D
+t1376195435
+s3597
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVDebug.h
+c000000005207136B0000000000000401
+t1376195435
+s1025
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVEcho.h
+c000000005207136B0000000000000342
+t1376195435
+s834
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVEcho.m
+c000000005207136B00000000000008DA
+t1376195435
+s2266
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+c000000005207136B00000000000007E6
+t1376195435
+s2022
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m
+c000000005207136B0000000000000DDE
+t1376195435
+s3550
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVJSON.h
+c000000005207136B00000000000003DA
+t1376195435
+s986
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVJSON.m
+c000000005207136B000000000000098E
+t1376195435
+s2446
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+c000000005207136B00000000000006CF
+t1376195435
+s1743
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m
+c000000005207136B0000000000004C6C
+t1376195435
+s19564
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+c000000005207136B0000000000000892
+t1376195435
+s2194
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVPlugin.m
+c000000005207136B00000000000016AE
+t1376195435
+s5806
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+c000000005207136B0000000000000C13
+t1376195435
+s3091
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVPluginResult.m
+c000000005207136B0000000000001B29
+t1376195435
+s6953
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+c000000005207136B0000000000000408
+t1376195435
+s1032
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVShared.h
+c000000005207136B00000000000003E6
+t1376195435
+s998
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVShared.m
+c000000005207136B00000000000006B6
+t1376195435
+s1718
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVTimer.h
+c000000005207136B000000000000038D
+t1376195435
+s909
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVTimer.m
+c000000005207136B0000000000000AA2
+t1376195435
+s2722
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+c000000005207136B000000000000041C
+t1376195435
+s1052
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m
+c000000005207136B0000000000002514
+t1376195435
+s9492
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h
+c000000005207136B0000000000000421
+t1376195435
+s1057
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m
+c000000005207136B00000000000012A2
+t1376195435
+s4770
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVViewController.h
+c000000005207136B0000000000000ACC
+t1376195435
+s2764
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVViewController.m
+c000000005207136B0000000000008568
+t1376195435
+s34152
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h
+c000000005207136B00000000000005A2
+t1376195435
+s1442
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m
+c000000005207136B00000000000037C6
+t1376195435
+s14278
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+c000000005207136B00000000000004B4
+t1376195435
+s1204
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVWhitelist.m
+c000000005207136B0000000000002216
+t1376195435
+s8726
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+c000000005207136B0000000000000392
+t1376195435
+s914
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m
+c000000005207136B00000000000004D8
+t1376195435
+s1240
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+c000000005207136B000000000000037D
+t1376195435
+s893
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/NSData+Base64.m
+c000000005207136B00000000000022CC
+t1376195435
+s8908
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+c000000005207136B00000000000005DA
+t1376195435
+s1498
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m
+c000000005207136B0000000000001059
+t1376195435
+s4185
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+c000000005207136B00000000000003A0
+t1376195435
+s928
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m
+c000000005207136B0000000000000584
+t1376195435
+s1412
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+c000000005207136B0000000000000476
+t1376195435
+s1142
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m
+c000000005207136B0000000000000620
+t1376195435
+s1568
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/CordovaLib_Prefix.pch
+c000000005207136B0000000000000346
+t1376195435
+s838
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o
+t2
+s0
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o
+t2
+s0
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o
+t2
+s0
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVEcho.o
+t2
+s0
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o
+t2
+s0
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o
+t2
+s0
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o
+t2
+s0
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o
+t2
+s0
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o
+t2
+s0
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o
+t2
+s0
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o
+t2
+s0
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o
+t2
+s0
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o
+t2
+s0
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o
+t2
+s0
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o
+t2
+s0
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o
+t2
+s0
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/Cordova.LinkFileList
+c000000005207136E0000000000000D27
+t1376195438
+s3367
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o
+t2
+s0
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o
+t2
+s0
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o
+t2
+s0
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o
+t2
+s0
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o
+t2
+s0
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDV.h
+t2
+s0
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVAvailability.h
+t2
+s0
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVCommandDelegate.h
+t2
+s0
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVCommandDelegateImpl.h
+t2
+s0
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVCommandQueue.h
+t2
+s0
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVConfigParser.h
+t2
+s0
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVDebug.h
+t2
+s0
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVEcho.h
+t2
+s0
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVInvokedUrlCommand.h
+t2
+s0
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVJSON.h
+t2
+s0
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVLocalStorage.h
+t2
+s0
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVPlugin.h
+t2
+s0
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVPluginResult.h
+t2
+s0
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVScreenOrientationDelegate.h
+t2
+s0
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVShared.h
+t2
+s0
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVTimer.h
+t2
+s0
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVURLProtocol.h
+t2
+s0
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVUserAgentUtil.h
+t2
+s0
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVViewController.h
+t2
+s0
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVWebViewDelegate.h
+t2
+s0
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVWhitelist.h
+t2
+s0
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/NSArray+Comparisons.h
+t2
+s0
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/NSData+Base64.h
+t2
+s0
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/NSDictionary+Extensions.h
+t2
+s0
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/NSMutableArray+QueueAdditions.h
+t2
+s0
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/UIDevice+Extensions.h
+t2
+s0
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/libCordova.a
+t2
+s0
+
+N/var/folders/s_/l75dvshj1jg7_kvn4fzwpqp80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-dnpagamlvopookbmoampvdczouvn/CordovaLib_Prefix.pch.pth
+t2
+s0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies6efa93ed4ab7b741^fc5415ee4ab7b741^---0#1#0#--18"Check dependencies36"08B0CED8-27DE-43F5-819B-65E8371487D8-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397888238.313348
+e397888238.449747
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.mf96550ee4ab7b741^ee2373ee4ab7b741^---0#0#0#-19%DVTDocumentLocation2@138"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m0000000000000000^3833"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o Classes/CDVCommandDelegateImpl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Ali/Home/天课计算器/v3/platforms/ios/build -DDEBUG -include /var/folders/s_/l75dvshj1jg7_kvn4fzwpqp80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-dnpagamlvopookbmoampvdczouvn/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.d --serialize-diagnostics /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.dia -c /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m -o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o36"C676A9B5-E575-4600-85CD-3387016E0985-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397888238.630412
+e397888238.775320
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m4e80a1ee4ab7b741^857ac6ee4ab7b741^---0#0#0#-19%DVTDocumentLocation2@131"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m0000000000000000^3791"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o Classes/CDVCommandQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Ali/Home/天课计算器/v3/platforms/ios/build -DDEBUG -include /var/folders/s_/l75dvshj1jg7_kvn4fzwpqp80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-dnpagamlvopookbmoampvdczouvn/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.d --serialize-diagnostics /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.dia -c /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m -o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o36"11D29EE7-3CCF-4C4E-A817-D11B22646FBA-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVConfigParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397888238.664650
+e397888238.705743
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVConfigParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVConfigParser.m6344aaee4ab7b741^20b6b4ee4ab7b741^---0#0#0#-19%DVTDocumentLocation2@131"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/CordovaLib/Classes/CDVConfigParser.m0000000000000000^3791"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o Classes/CDVConfigParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Ali/Home/天课计算器/v3/platforms/ios/build -DDEBUG -include /var/folders/s_/l75dvshj1jg7_kvn4fzwpqp80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-dnpagamlvopookbmoampvdczouvn/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.d --serialize-diagnostics /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.dia -c /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVConfigParser.m -o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o36"791A9AD1-8541-434A-98AC-B68AC5D38627-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVEcho.o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVEcho.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397888238.610303
+e397888238.743064
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVEcho.o
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVEcho.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVEcho.m605a9cee4ab7b741^315bbeee4ab7b741^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/CordovaLib/Classes/CDVEcho.m0000000000000000^3743"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVEcho.o Classes/CDVEcho.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Ali/Home/天课计算器/v3/platforms/ios/build -DDEBUG -include /var/folders/s_/l75dvshj1jg7_kvn4fzwpqp80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-dnpagamlvopookbmoampvdczouvn/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVEcho.d --serialize-diagnostics /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVEcho.dia -c /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVEcho.m -o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVEcho.o36"9F8BD35F-F6B2-4662-9788-74DA26BBB6B1-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397888238.390819
+e397888238.421394
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.mfe2a64ee4ab7b741^f4df6bee4ab7b741^---0#0#0#-19%DVTDocumentLocation2@136"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m0000000000000000^3821"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o Classes/CDVInvokedUrlCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Ali/Home/天课计算器/v3/platforms/ios/build -DDEBUG -include /var/folders/s_/l75dvshj1jg7_kvn4fzwpqp80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-dnpagamlvopookbmoampvdczouvn/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.d --serialize-diagnostics /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.dia -c /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m -o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o36"1DC8CD06-FD4F-41FC-B364-8527527431FD-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397888238.707843
+e397888238.736249
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVJSON.meb54b5ee4ab7b741^0492bcee4ab7b741^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/CordovaLib/Classes/CDVJSON.m0000000000000000^3743"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o Classes/CDVJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Ali/Home/天课计算器/v3/platforms/ios/build -DDEBUG -include /var/folders/s_/l75dvshj1jg7_kvn4fzwpqp80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-dnpagamlvopookbmoampvdczouvn/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.d --serialize-diagnostics /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.dia -c /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVJSON.m -o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o36"11DDD073-03AB-48A4-A9F8-B9AA7BA237AF-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397888238.494906
+e397888238.663375
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVLocalStorage.mb7cf7eee4ab7b741^1959aaee4ab7b741^---0#0#0#-19%DVTDocumentLocation2@131"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m0000000000000000^3791"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o Classes/CDVLocalStorage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Ali/Home/天课计算器/v3/platforms/ios/build -DDEBUG -include /var/folders/s_/l75dvshj1jg7_kvn4fzwpqp80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-dnpagamlvopookbmoampvdczouvn/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.d --serialize-diagnostics /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.dia -c /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m -o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o36"7DE50B29-8332-48C4-8A4C-8C87AAFF7ADE-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVPlugin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397888238.450944
+e397888238.603136
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVPlugin.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVPlugin.m478f73ee4ab7b741^08749aee4ab7b741^---0#0#0#-19%DVTDocumentLocation2@125"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/CordovaLib/Classes/CDVPlugin.m0000000000000000^3755"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o Classes/CDVPlugin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Ali/Home/天课计算器/v3/platforms/ios/build -DDEBUG -include /var/folders/s_/l75dvshj1jg7_kvn4fzwpqp80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-dnpagamlvopookbmoampvdczouvn/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.d --serialize-diagnostics /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.dia -c /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVPlugin.m -o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o36"817DE00C-950A-46F4-9FE0-C03E282479CA-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVPluginResult.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397888238.448009
+e397888238.493632
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVPluginResult.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVPluginResult.m95f272ee4ab7b741^9c697eee4ab7b741^---0#0#0#-19%DVTDocumentLocation2@131"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/CordovaLib/Classes/CDVPluginResult.m0000000000000000^3791"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o Classes/CDVPluginResult.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Ali/Home/天课计算器/v3/platforms/ios/build -DDEBUG -include /var/folders/s_/l75dvshj1jg7_kvn4fzwpqp80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-dnpagamlvopookbmoampvdczouvn/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.d --serialize-diagnostics /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.dia -c /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVPluginResult.m -o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o36"412590BB-4DC4-432C-9953-6B375704C8D8-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVShared.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397888238.776749
+e397888238.805965
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVShared.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVShared.mef00c7ee4ab7b741^6efacfee4ab7b741^---0#0#0#-19%DVTDocumentLocation2@125"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/CordovaLib/Classes/CDVShared.m0000000000000000^3755"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o Classes/CDVShared.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Ali/Home/天课计算器/v3/platforms/ios/build -DDEBUG -include /var/folders/s_/l75dvshj1jg7_kvn4fzwpqp80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-dnpagamlvopookbmoampvdczouvn/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.d --serialize-diagnostics /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.dia -c /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVShared.m -o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o36"1336E078-DAEA-4263-BD78-BEB0BC5F055B-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVTimer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397888238.744302
+e397888238.788896
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVTimer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVTimer.me7a9beee4ab7b741^9e08caee4ab7b741^---0#0#0#-19%DVTDocumentLocation2@124"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/CordovaLib/Classes/CDVTimer.m0000000000000000^3749"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o Classes/CDVTimer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Ali/Home/天课计算器/v3/platforms/ios/build -DDEBUG -include /var/folders/s_/l75dvshj1jg7_kvn4fzwpqp80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-dnpagamlvopookbmoampvdczouvn/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.d --serialize-diagnostics /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.dia -c /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVTimer.m -o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o36"D1A844BC-9475-4968-BCAB-1409118589AB-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397888238.313187
+e397888238.466442
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVURLProtocol.ma96850ee4ab7b741^087377ee4ab7b741^---0#0#0#-19%DVTDocumentLocation2@130"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m0000000000000000^3785"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o Classes/CDVURLProtocol.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Ali/Home/天课计算器/v3/platforms/ios/build -DDEBUG -include /var/folders/s_/l75dvshj1jg7_kvn4fzwpqp80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-dnpagamlvopookbmoampvdczouvn/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.d --serialize-diagnostics /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.dia -c /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m -o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o36"A84BE918-4F17-48A3-8CFB-1415E8733F15-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397888238.313201
+e397888238.446738
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m1b4b50ee4ab7b741^c45c72ee4ab7b741^---0#0#0#-19%DVTDocumentLocation2@132"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m0000000000000000^3797"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o Classes/CDVUserAgentUtil.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Ali/Home/天课计算器/v3/platforms/ios/build -DDEBUG -include /var/folders/s_/l75dvshj1jg7_kvn4fzwpqp80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-dnpagamlvopookbmoampvdczouvn/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.d --serialize-diagnostics /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.dia -c /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m -o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o36"EB0B6041-0250-483C-9ED0-3348A8D234CE-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397888238.467910
+e397888238.788449
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVViewController.m47e877ee4ab7b741^56d7c9ee4ab7b741^---0#0#0#-19%DVTDocumentLocation2@133"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/CordovaLib/Classes/CDVViewController.m0000000000000000^3803"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o Classes/CDVViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Ali/Home/天课计算器/v3/platforms/ios/build -DDEBUG -include /var/folders/s_/l75dvshj1jg7_kvn4fzwpqp80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-dnpagamlvopookbmoampvdczouvn/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.d --serialize-diagnostics /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.dia -c /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVViewController.m -o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o36"348AEB3E-B7AB-49AD-8FAE-0655035F2F3F-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397888238.737612
+e397888238.871828
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m12f7bcee4ab7b741^a92fdfee4ab7b741^---0#0#0#-19%DVTDocumentLocation2@134"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m0000000000000000^3809"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o Classes/CDVWebViewDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Ali/Home/天课计算器/v3/platforms/ios/build -DDEBUG -include /var/folders/s_/l75dvshj1jg7_kvn4fzwpqp80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-dnpagamlvopookbmoampvdczouvn/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.d --serialize-diagnostics /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.dia -c /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m -o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o36"09E6D876-4D13-4096-9D15-8C739CA80930-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVWhitelist.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397888238.456033
+e397888238.498224
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVWhitelist.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVWhitelist.md7dd74ee4ab7b741^598b7fee4ab7b741^---0#0#0#-19%DVTDocumentLocation2@128"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/CordovaLib/Classes/CDVWhitelist.m0000000000000000^3773"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o Classes/CDVWhitelist.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Ali/Home/天课计算器/v3/platforms/ios/build -DDEBUG -include /var/folders/s_/l75dvshj1jg7_kvn4fzwpqp80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-dnpagamlvopookbmoampvdczouvn/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.d --serialize-diagnostics /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.dia -c /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVWhitelist.m -o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o36"0A838B9B-64F0-48F9-AA9B-34D5055AC8BC-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397888238.604397
+e397888238.629098
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m54379bee4ab7b741^2f17a1ee4ab7b741^---0#0#0#-19%DVTDocumentLocation2@135"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m0000000000000000^3815"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o Classes/NSArray+Comparisons.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Ali/Home/天课计算器/v3/platforms/ios/build -DDEBUG -include /var/folders/s_/l75dvshj1jg7_kvn4fzwpqp80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-dnpagamlvopookbmoampvdczouvn/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.d --serialize-diagnostics /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.dia -c /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m -o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o36"A71E156D-5429-4F70-917B-95BF5C47170C-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/NSData+Base64.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397888238.422645
+e397888238.454525
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/NSData+Base64.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/NSData+Base64.m33516cee4ab7b741^ae6774ee4ab7b741^---0#0#0#-19%DVTDocumentLocation2@129"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/CordovaLib/Classes/NSData+Base64.m0000000000000000^3779"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o Classes/NSData+Base64.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Ali/Home/天课计算器/v3/platforms/ios/build -DDEBUG -include /var/folders/s_/l75dvshj1jg7_kvn4fzwpqp80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-dnpagamlvopookbmoampvdczouvn/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.d --serialize-diagnostics /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.dia -c /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/NSData+Base64.m -o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o36"4A363DE3-5468-4CC7-A275-5E426CE9B313-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397888238.360544
+e397888238.389507
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.me46a5cee4ab7b741^46b663ee4ab7b741^---0#0#0#-19%DVTDocumentLocation2@139"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m0000000000000000^3839"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o Classes/NSDictionary+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Ali/Home/天课计算器/v3/platforms/ios/build -DDEBUG -include /var/folders/s_/l75dvshj1jg7_kvn4fzwpqp80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-dnpagamlvopookbmoampvdczouvn/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.d --serialize-diagnostics /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.dia -c /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m -o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o36"40AA7A54-9A0B-49B5-86F1-B1FD15555D15-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397888238.313153
+e397888238.359248
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m095350ee4ab7b741^60015cee4ab7b741^---0#0#0#-19%DVTDocumentLocation2@145"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m0000000000000000^3875"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o Classes/NSMutableArray+QueueAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Ali/Home/天课计算器/v3/platforms/ios/build -DDEBUG -include /var/folders/s_/l75dvshj1jg7_kvn4fzwpqp80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-dnpagamlvopookbmoampvdczouvn/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.d --serialize-diagnostics /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.dia -c /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m -o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o36"15DE07AF-F7F4-4B04-8342-A58686FAB3BA-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397888238.499499
+e397888238.609002
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m2ffd7fee4ab7b741^e6e69bee4ab7b741^---0#0#0#-19%DVTDocumentLocation2@135"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m0000000000000000^3815"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o Classes/UIDevice+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Ali/Home/天课计算器/v3/platforms/ios/build -DDEBUG -include /var/folders/s_/l75dvshj1jg7_kvn4fzwpqp80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-dnpagamlvopookbmoampvdczouvn/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.d --serialize-diagnostics /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.dia -c /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m -o /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o36"35F5CDAB-7AAF-490F-A8A6-C9176CF07B54-
+
+CCpHeader Classes/CDV.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDV.h
+s397888238.110987
+e397888238.113440
+r1
+xCpHeader
+xClasses/CDV.h
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDV.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Copy /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDV.h5f7d1cee4ab7b741^200b1dee4ab7b741^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/build/include/Cordova/CDV.h000000000080d041^681"CpHeader Classes/CDV.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDV.h    cd /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDV.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova36"B4A66EBF-4310-43E7-B5CE-02F5409438D3-
+
+CCpHeader Classes/CDVAvailability.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVAvailability.h
+s397888238.111015
+e397888238.116001
+r1
+xCpHeader
+xClasses/CDVAvailability.h
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVAvailability.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVAvailability.h4d851cee4ab7b741^0cb21dee4ab7b741^---0#0#0#-19%DVTDocumentLocation2@134"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/build/include/Cordova/CDVAvailability.h000000000080d041^717"CpHeader Classes/CDVAvailability.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVAvailability.h    cd /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVAvailability.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova36"D605D30B-5AD8-40DC-84F6-14B5B681EA0E-
+
+CCpHeader Classes/CDVCommandDelegate.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVCommandDelegate.h
+s397888238.111017
+e397888238.114822
+r1
+xCpHeader
+xClasses/CDVCommandDelegate.h
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVCommandDelegate.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Copy /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVCommandDelegate.h077e1cee4ab7b741^99671dee4ab7b741^---0#0#0#-19%DVTDocumentLocation2@137"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/build/include/Cordova/CDVCommandDelegate.h000000000080d041^726"CpHeader Classes/CDVCommandDelegate.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVCommandDelegate.h    cd /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova36"E1900A73-5816-4F88-B3F5-FE30910BC1E5-
+
+CCpHeader Classes/CDVCommandDelegateImpl.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVCommandDelegateImpl.h
+s397888238.119287
+e397888238.122737
+r1
+xCpHeader
+xClasses/CDVCommandDelegateImpl.h
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVCommandDelegateImpl.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Copy /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVCommandDelegateImpl.hc39a1eee4ab7b741^9c6c1fee4ab7b741^---0#0#0#-19%DVTDocumentLocation2@141"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/build/include/Cordova/CDVCommandDelegateImpl.h000000000080d041^738"CpHeader Classes/CDVCommandDelegateImpl.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVCommandDelegateImpl.h    cd /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova36"F763C904-3A07-479F-A292-A51999D6A422-
+
+CCpHeader Classes/CDVCommandQueue.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVCommandQueue.h
+s397888238.117114
+e397888238.120438
+r1
+xCpHeader
+xClasses/CDVCommandQueue.h
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVCommandQueue.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVCommandQueue.h9e0c1eee4ab7b741^9dd51eee4ab7b741^---0#0#0#-19%DVTDocumentLocation2@134"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/build/include/Cordova/CDVCommandQueue.h000000000080d041^717"CpHeader Classes/CDVCommandQueue.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVCommandQueue.h    cd /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova36"FE0063F7-876B-4A9E-B7A8-2783E7C1D32B-
+
+CCpHeader Classes/CDVConfigParser.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVConfigParser.h
+s397888238.122694
+e397888238.126103
+r1
+xCpHeader
+xClasses/CDVConfigParser.h
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVConfigParser.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVConfigParser.h20791fee4ab7b741^384820ee4ab7b741^---0#0#0#-19%DVTDocumentLocation2@134"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/build/include/Cordova/CDVConfigParser.h000000000080d041^717"CpHeader Classes/CDVConfigParser.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVConfigParser.h    cd /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVConfigParser.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova36"3D872E56-B77F-43CF-909E-3DD667F55B10-
+
+CCpHeader Classes/CDVDebug.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVDebug.h
+s397888238.096945
+e397888238.099917
+r1
+xCpHeader
+xClasses/CDVDebug.h
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVDebug.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Copy /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVDebug.h41f018ee4ab7b741^4b9419ee4ab7b741^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/build/include/Cordova/CDVDebug.h000000000080d041^696"CpHeader Classes/CDVDebug.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVDebug.h    cd /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVDebug.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova36"2678994B-642D-4F07-BFE2-F419C880C073-
+
+CCpHeader Classes/CDVEcho.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVEcho.h
+s397888238.117133
+e397888238.121571
+r1
+xCpHeader
+xClasses/CDVEcho.h
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVEcho.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Copy /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVEcho.hbb0d1eee4ab7b741^bc1f1fee4ab7b741^---0#0#0#-19%DVTDocumentLocation2@126"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/build/include/Cordova/CDVEcho.h000000000080d041^693"CpHeader Classes/CDVEcho.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVEcho.h    cd /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVEcho.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova36"11F6B2E6-5930-49FE-A94D-0A149FB8B3ED-
+
+CCpHeader Classes/CDVInvokedUrlCommand.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVInvokedUrlCommand.h
+s397888238.092581
+e397888238.098859
+r1
+xCpHeader
+xClasses/CDVInvokedUrlCommand.h
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVInvokedUrlCommand.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Copy /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVInvokedUrlCommand.h22e117ee4ab7b741^c24e19ee4ab7b741^---0#0#0#-19%DVTDocumentLocation2@139"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/build/include/Cordova/CDVInvokedUrlCommand.h000000000080d041^732"CpHeader Classes/CDVInvokedUrlCommand.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVInvokedUrlCommand.h    cd /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova36"AE4A7FB4-60D8-4784-B640-64F2FC816F6E-
+
+CCpHeader Classes/CDVJSON.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVJSON.h
+s397888238.123956
+e397888238.127247
+r1
+xCpHeader
+xClasses/CDVJSON.h
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVJSON.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Copy /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVJSON.h6ccc1fee4ab7b741^219320ee4ab7b741^---0#0#0#-19%DVTDocumentLocation2@126"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/build/include/Cordova/CDVJSON.h000000000080d041^693"CpHeader Classes/CDVJSON.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVJSON.h    cd /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVJSON.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova36"6247E3CF-63EE-47BD-9299-B4F5C6281E22-
+
+CCpHeader Classes/CDVLocalStorage.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVLocalStorage.h
+s397888238.113080
+e397888238.116980
+r1
+xCpHeader
+xClasses/CDVLocalStorage.h
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVLocalStorage.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVLocalStorage.h2e041dee4ab7b741^78f21dee4ab7b741^---0#0#0#-19%DVTDocumentLocation2@134"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/build/include/Cordova/CDVLocalStorage.h000000000080d041^717"CpHeader Classes/CDVLocalStorage.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVLocalStorage.h    cd /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova36"EB2F23CF-6319-4453-90EE-45530349D02B-
+
+CCpHeader Classes/CDVPlugin.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVPlugin.h
+s397888238.096948
+e397888238.101075
+r1
+xCpHeader
+xClasses/CDVPlugin.h
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVPlugin.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Copy /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVPlugin.ha6f018ee4ab7b741^0de019ee4ab7b741^---0#0#0#-19%DVTDocumentLocation2@128"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/build/include/Cordova/CDVPlugin.h000000000080d041^699"CpHeader Classes/CDVPlugin.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVPlugin.h    cd /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVPlugin.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova36"A6FCD2E9-EECB-4ED2-A1B7-AB969111D951-
+
+CCpHeader Classes/CDVPluginResult.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVPluginResult.h
+s397888238.092813
+e397888238.096468
+r1
+xCpHeader
+xClasses/CDVPluginResult.h
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVPluginResult.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVPluginResult.hbde017ee4ab7b741^ffb118ee4ab7b741^---0#0#0#-19%DVTDocumentLocation2@134"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/build/include/Cordova/CDVPluginResult.h000000000080d041^717"CpHeader Classes/CDVPluginResult.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVPluginResult.h    cd /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVPluginResult.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova36"23BA996B-B3BF-4FC0-8FE9-760A32AFFE78-
+
+CCpHeader Classes/CDVScreenOrientationDelegate.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVScreenOrientationDelegate.h
+s397888238.121565
+e397888238.124958
+r1
+xCpHeader
+xClasses/CDVScreenOrientationDelegate.h
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVScreenOrientationDelegate.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Copy /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVScreenOrientationDelegate.hcf2e1fee4ab7b741^50fd1fee4ab7b741^---0#0#0#-19%DVTDocumentLocation2@147"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/build/include/Cordova/CDVScreenOrientationDelegate.h000000000080d041^756"CpHeader Classes/CDVScreenOrientationDelegate.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVScreenOrientationDelegate.h    cd /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova36"BF7105D6-1241-492D-B432-F8F37BD2D533-
+
+CCpHeader Classes/CDVShared.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVShared.h
+s397888238.120469
+e397888238.123838
+r1
+xCpHeader
+xClasses/CDVShared.h
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVShared.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Copy /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVShared.h29e81eee4ab7b741^a2b41fee4ab7b741^---0#0#0#-19%DVTDocumentLocation2@128"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/build/include/Cordova/CDVShared.h000000000080d041^699"CpHeader Classes/CDVShared.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVShared.h    cd /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVShared.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova36"53350FEC-BCD7-4CDF-8271-BF62F7FBD70F-
+
+CCpHeader Classes/CDVTimer.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVTimer.h
+s397888238.127240
+e397888238.130885
+r1
+xCpHeader
+xClasses/CDVTimer.h
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVTimer.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Copy /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVTimer.h9ba920ee4ab7b741^ae8121ee4ab7b741^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/build/include/Cordova/CDVTimer.h000000000080d041^696"CpHeader Classes/CDVTimer.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVTimer.h    cd /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVTimer.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova36"2A383FFF-CD51-41C9-8CD8-2300949EFB03-
+
+CCpHeader Classes/CDVURLProtocol.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVURLProtocol.h
+s397888238.101032
+e397888238.108294
+r1
+xCpHeader
+xClasses/CDVURLProtocol.h
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVURLProtocol.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVURLProtocol.h070c1aee4ab7b741^d3bc1bee4ab7b741^---0#0#0#-19%DVTDocumentLocation2@133"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/build/include/Cordova/CDVURLProtocol.h000000000080d041^714"CpHeader Classes/CDVURLProtocol.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVURLProtocol.h    cd /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova36"BE3910C7-D4BA-4985-8CD6-701F87430B25-
+
+CCpHeader Classes/CDVUserAgentUtil.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVUserAgentUtil.h
+s397888238.126090
+e397888238.129518
+r1
+xCpHeader
+xClasses/CDVUserAgentUtil.h
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVUserAgentUtil.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Copy /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVUserAgentUtil.h085720ee4ab7b741^282821ee4ab7b741^---0#0#0#-19%DVTDocumentLocation2@135"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/build/include/Cordova/CDVUserAgentUtil.h000000000080d041^720"CpHeader Classes/CDVUserAgentUtil.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVUserAgentUtil.h    cd /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova36"2DBA3BC5-62DD-48DC-BDB3-4DFA8BEB132B-
+
+CCpHeader Classes/CDVViewController.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVViewController.h
+s397888238.104580
+e397888238.111803
+r1
+xCpHeader
+xClasses/CDVViewController.h
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVViewController.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Copy /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVViewController.hea5a1bee4ab7b741^5aa11cee4ab7b741^---0#0#0#-19%DVTDocumentLocation2@136"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/build/include/Cordova/CDVViewController.h000000000080d041^723"CpHeader Classes/CDVViewController.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVViewController.h    cd /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVViewController.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova36"800EB925-6345-4DF6-8AE0-A9381A5238E2-
+
+CCpHeader Classes/CDVWebViewDelegate.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVWebViewDelegate.h
+s397888238.124996
+e397888238.128375
+r1
+xCpHeader
+xClasses/CDVWebViewDelegate.h
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVWebViewDelegate.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Copy /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVWebViewDelegate.hb61020ee4ab7b741^72dd20ee4ab7b741^---0#0#0#-19%DVTDocumentLocation2@137"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/build/include/Cordova/CDVWebViewDelegate.h000000000080d041^726"CpHeader Classes/CDVWebViewDelegate.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVWebViewDelegate.h    cd /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova36"CA127F04-3E94-4206-8350-60EED127E486-
+
+CCpHeader Classes/CDVWhitelist.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVWhitelist.h
+s397888238.099010
+e397888238.106809
+r1
+xCpHeader
+xClasses/CDVWhitelist.h
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVWhitelist.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Copy /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVWhitelist.h056a19ee4ab7b741^56651bee4ab7b741^---0#0#0#-19%DVTDocumentLocation2@131"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/build/include/Cordova/CDVWhitelist.h000000000080d041^708"CpHeader Classes/CDVWhitelist.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVWhitelist.h    cd /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/CDVWhitelist.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova36"24B886DF-10BF-4B5C-B404-B17B9A7D7128-
+
+CCpHeader Classes/NSArray+Comparisons.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/NSArray+Comparisons.h
+s397888238.116000
+e397888238.119331
+r1
+xCpHeader
+xClasses/NSArray+Comparisons.h
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/NSArray+Comparisons.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Copy /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/NSArray+Comparisons.h72c51dee4ab7b741^588c1eee4ab7b741^---0#0#0#-19%DVTDocumentLocation2@138"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/build/include/Cordova/NSArray+Comparisons.h000000000080d041^729"CpHeader Classes/NSArray+Comparisons.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/NSArray+Comparisons.h    cd /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova36"2E9CACD6-3FE1-4F4E-AAD3-2F01DCA58DAF-
+
+CCpHeader Classes/NSData+Base64.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/NSData+Base64.h
+s397888238.092605
+e397888238.095598
+r1
+xCpHeader
+xClasses/NSData+Base64.h
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/NSData+Base64.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Copy /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/NSData+Base64.h9ce017ee4ab7b741^fb7818ee4ab7b741^---0#0#0#-19%DVTDocumentLocation2@132"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/build/include/Cordova/NSData+Base64.h000080f2dd011042^711"CpHeader Classes/NSData+Base64.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/NSData+Base64.h    cd /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/NSData+Base64.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova36"39389F9B-1A42-4174-8C02-09E8E2A5B581-
+
+CCpHeader Classes/NSDictionary+Extensions.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/NSDictionary+Extensions.h
+s397888238.092580
+e397888238.097887
+r1
+xCpHeader
+xClasses/NSDictionary+Extensions.h
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/NSDictionary+Extensions.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Copy /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/NSDictionary+Extensions.h65e117ee4ab7b741^410f19ee4ab7b741^---0#0#0#-19%DVTDocumentLocation2@142"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/build/include/Cordova/NSDictionary+Extensions.h000000000080d041^741"CpHeader Classes/NSDictionary+Extensions.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/NSDictionary+Extensions.h    cd /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova36"1055ED42-FBAA-462B-913C-EA450EB51331-
+
+CCpHeader Classes/NSMutableArray+QueueAdditions.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/NSMutableArray+QueueAdditions.h
+s397888238.099016
+e397888238.108106
+r1
+xCpHeader
+xClasses/NSMutableArray+QueueAdditions.h
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/NSMutableArray+QueueAdditions.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Copy /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/NSMutableArray+QueueAdditions.h016b19ee4ab7b741^41b71bee4ab7b741^---0#0#0#-19%DVTDocumentLocation2@148"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/build/include/Cordova/NSMutableArray+QueueAdditions.h000000000080d041^759"CpHeader Classes/NSMutableArray+QueueAdditions.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/NSMutableArray+QueueAdditions.h    cd /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova36"C1A8A1DF-B59E-4AC9-A7F3-DB4ABDC1A5C4-
+
+CCpHeader Classes/UIDevice+Extensions.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/UIDevice+Extensions.h
+s397888238.114552
+e397888238.118138
+r1
+xCpHeader
+xClasses/UIDevice+Extensions.h
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/UIDevice+Extensions.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Copy /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/UIDevice+Extensions.h30681dee4ab7b741^6c3e1eee4ab7b741^---0#0#0#-19%DVTDocumentLocation2@138"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/build/include/Cordova/UIDevice+Extensions.h000000000080d041^729"CpHeader Classes/UIDevice+Extensions.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/UIDevice+Extensions.h    cd /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h /Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova36"A90C0165-02AB-4FC9-A556-D6160DFEA093-
+
+CLibtool /Users/Ali/Home/天课计算器/v3/platforms/ios/build/libCordova.a normal i386
+s397888238.878119
+e397888238.895714
+r1
+xLibtool
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/build/libCordova.a
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Libtool /Users/Ali/Home/天课计算器/v3/platforms/ios/build/libCordova.a normal i386cedfe0ee4ab7b741^9c4fe5ee4ab7b741^---0#0#0#--1006"Libtool /Users/Ali/Home/天课计算器/v3/platforms/ios/build/libCordova.a normal i386    cd /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -L/Users/Ali/Home/天课计算器/v3/platforms/ios/build -filelist /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/Cordova.LinkFileList -o /Users/Ali/Home/天课计算器/v3/platforms/ios/build/libCordova.a36"D6E24CF2-A5FF-4902-936A-D587805EC35E-
+
+CProcessPCH /var/folders/s_/l75dvshj1jg7_kvn4fzwpqp80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-dnpagamlvopookbmoampvdczouvn/CordovaLib_Prefix.pch.pth CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397888238.138958
+e397888238.306261
+r1
+xProcessPCH
+x/var/folders/s_/l75dvshj1jg7_kvn4fzwpqp80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-dnpagamlvopookbmoampvdczouvn/CordovaLib_Prefix.pch.pth
+xCordovaLib_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection32"Precompile CordovaLib_Prefix.pchbfb923ee4ab7b741^77664eee4ab7b741^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/CordovaLib/CordovaLib_Prefix.pch0000000000000000^3704"ProcessPCH /var/folders/s_/l75dvshj1jg7_kvn4fzwpqp80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-dnpagamlvopookbmoampvdczouvn/CordovaLib_Prefix.pch.pth CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Ali/Home/天课计算器/v3/platforms/ios/build -DDEBUG --serialize-diagnostics /var/folders/s_/l75dvshj1jg7_kvn4fzwpqp80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-dnpagamlvopookbmoampvdczouvn/CordovaLib_Prefix.pch.dia -c /Users/Ali/Home/天课计算器/v3/platforms/ios/CordovaLib/CordovaLib_Prefix.pch -o /var/folders/s_/l75dvshj1jg7_kvn4fzwpqp80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-dnpagamlvopookbmoampvdczouvn/CordovaLib_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/s_/l75dvshj1jg7_kvn4fzwpqp80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CordovaLib_Prefix-dnpagamlvopookbmoampvdczouvn/CordovaLib_Prefix.pch.d36"682F6D28-933F-407F-8F68-4623943BD1C7-
+

@@ -1,0 +1,55 @@
+<section id="agrominerals" data-transition="slide">
+
+    <header data-title="农业天课">
+    	<nav class="left"><a href="#" data-view-section="back"><span class="icon chevron-left"></span></a></nav>
+    </header>
+
+    <article id="main-article" class="list indented scroll active">
+ 
+    	<ul class="info">
+			<li>
+				<strong class="text bold">农产品天课条件</strong>
+				<span class="text tiny">
+
+				<b>1.</b> 必须是易于储藏的，不易储藏的东西不能作为财产储存和积累下来，因此也不便当作财产以作备用。
+				<br />
+				<b>2.</b> 必须是可以稳定称量的，如果不便于稳定称量，比如：蔬菜、水果之类的，就没有天课。
+				<br />
+				<b>3.</b> 必须是人工种植出来希望收获的农产品，如果地里产出了一些柴草或其它的一些植物，那么，这些副产品都不纳天课。
+				<br />
+				</span>
+
+	        </li>
+
+        </ul>
+
+    <div class="form">
+
+    	<ul><li>
+		<label class="absolute">种类：</label>
+    	<label class="select ">
+            <select class="typeAgrominerals">
+                <option value="1">没有人力及财力花费而灌溉的田地</option>
+                <option value="2">人力畜力及花费财力灌溉的田地</option>
+                <option value="3">既有自然灌溉又有人力灌溉的田地</option>
+            </select>
+        </label>
+         </li></ul>
+
+ 
+
+		<fieldset><span class="icon" style="font-size: 1em; margin-top:2px;">公斤</span>
+			<form onsubmit="agromineralsCalculator(); return false;">
+			<input type="number" value="" placeholder="请输入需要计算的农产品总量:" id="agromineralsInput">
+			</form>
+		</fieldset>
+
+        <br />
+		<button class="anchor margin-bottom agromineralsCalculator"><abbr>计算</abbr></button>
+
+		<br />
+
+
+    </article>
+    </div>
+</section>

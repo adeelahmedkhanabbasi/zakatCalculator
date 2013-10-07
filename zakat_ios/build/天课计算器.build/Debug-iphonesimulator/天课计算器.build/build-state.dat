@@ -1,0 +1,817 @@
+T天课计算器
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app/Info.plist 天课计算器/天课计算器-Info.plist
+cPhaseScriptExecution "Copy www directory" /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Script-304B58A110DAC018002A0835.sh
+cCpResource 天课计算器/config.xml build/天课计算器.app/config.xml
+cCpResource 天课计算器/Resources/icons/icon-72.png build/天课计算器.app/icon-72.png
+cCpResource 天课计算器/Resources/icons/icon.png build/天课计算器.app/icon.png
+cCpResource 天课计算器/Resources/icons/icon@2x.png build/天课计算器.app/icon@2x.png
+cCopyStringsFile /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app/es.lproj/Localizable.strings 天课计算器/Resources/es.lproj/Localizable.strings
+cCopyStringsFile /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app/en.lproj/Localizable.strings 天课计算器/Resources/en.lproj/Localizable.strings
+cCopyStringsFile /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app/de.lproj/Localizable.strings 天课计算器/Resources/de.lproj/Localizable.strings
+cCompileXIB /Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Classes/MainViewController.xib
+cCpResource 天课计算器/Resources/splash/Default-Landscape@2x~ipad.png build/天课计算器.app/Default-Landscape@2x~ipad.png
+cCopyStringsFile /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app/se.lproj/Localizable.strings 天课计算器/Resources/se.lproj/Localizable.strings
+cCpResource 天课计算器/Resources/splash/Default-Landscape~ipad.png build/天课计算器.app/Default-Landscape~ipad.png
+cCpResource 天课计算器/Resources/splash/Default-Portrait@2x~ipad.png build/天课计算器.app/Default-Portrait@2x~ipad.png
+cCpResource 天课计算器/Resources/splash/Default@2x~iphone.png build/天课计算器.app/Default@2x~iphone.png
+cCpResource 天课计算器/Resources/splash/Default-Portrait~ipad.png build/天课计算器.app/Default-Portrait~ipad.png
+cCpResource 天课计算器/Resources/splash/Default~iphone.png build/天课计算器.app/Default~iphone.png
+cCpResource 天课计算器/Resources/splash/Default-568h@2x~iphone.png build/天课计算器.app/Default-568h@2x~iphone.png
+cCpResource 天课计算器/Resources/icons/icon-72@2x.png build/天课计算器.app/icon-72@2x.png
+cProcessPCH /var/folders/s_/l75dvshj1jg7_kvn4fzwpqp80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/天课计算器-Prefix-hakfwthqsjdwrzezlvlzrqbhjoxn/天课计算器-Prefix.pch.pth 天课计算器/天课计算器-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Objects-normal/i386/AppDelegate.o /Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Objects-normal/i386/MainViewController.o /Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Objects-normal/i386/main.o /Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Objects-normal/i386/CDVSplashScreen.o /Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Plugins/org.apache.cordova.core.splashscreen/CDVSplashScreen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Objects-normal/i386/CDVDevice.o /Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Plugins/org.apache.cordova.core.device/CDVDevice.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Objects-normal/i386/CDVInAppBrowser.o /Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Plugins/org.apache.cordova.core.inappbrowser/CDVInAppBrowser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app/天课计算器 normal i386
+cGenerateDSYMFile /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app.dSYM /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app/天课计算器
+cTouch /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+c0000000050EDEAFB0000000000000110
+t1357769467
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000005201BDA200000000001EB540
+t1375845794
+s2012480
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/AddressBook.framework/AddressBook
+c000000005201BDA200000000000C1030
+t1375845794
+s790576
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/AddressBookUI.framework/AddressBookUI
+c000000005201BDA20000000000193640
+t1375845794
+s1652288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+c000000005201BDA200000000000226E0
+t1375845794
+s141024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000005201BDA300000000003D4DF0
+t1375845795
+s4017648
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000005201BDA30000000000215DB0
+t1375845795
+s2186672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005201BDA30000000000228FE0
+t1375845795
+s2265056
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000005201BDA3000000000009C590
+t1375845795
+s640400
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+c000000005201BDA30000000000085620
+t1375845795
+s546336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005201BDA400000000003DDFA0
+t1375845796
+s4054944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+c000000005201BDA400000000002CFBE0
+t1375845796
+s2948064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000005201BDA500000000002DBA50
+t1375845797
+s2996816
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c000000005201BDA500000000000BCC20
+t1375845797
+s773152
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
+c000000005201BDA50000000000030EB0
+t1375845797
+s200368
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000005201BDA500000000001D5750
+t1375845797
+s1922896
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000005201BDA6000000000006CC50
+t1375845798
+s445520
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000005201BDA70000000000AB6230
+t1375845799
+s11231792
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDV.h
+c000000005207136E0000000000000516
+t1376195438
+s1302
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVAvailability.h
+c000000005207136E0000000000000C65
+t1376195438
+s3173
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVCommandDelegate.h
+c000000005207136E00000000000008BA
+t1376195438
+s2234
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVCommandDelegateImpl.h
+c000000005207136E0000000000000473
+t1376195438
+s1139
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVCommandQueue.h
+c000000005207136E0000000000000501
+t1376195438
+s1281
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVDebug.h
+c000000005207136E0000000000000401
+t1376195438
+s1025
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVInvokedUrlCommand.h
+c000000005207136E00000000000007E6
+t1376195438
+s2022
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVJSON.h
+c000000005207136E00000000000003DA
+t1376195438
+s986
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVLocalStorage.h
+c000000005207136E00000000000006CF
+t1376195438
+s1743
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVPlugin.h
+c000000005207136E0000000000000892
+t1376195438
+s2194
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVPluginResult.h
+c000000005207136E0000000000000C13
+t1376195438
+s3091
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVScreenOrientationDelegate.h
+c000000005207136E0000000000000408
+t1376195438
+s1032
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVTimer.h
+c000000005207136E000000000000038D
+t1376195438
+s909
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVURLProtocol.h
+c000000005207136E000000000000041C
+t1376195438
+s1052
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVUserAgentUtil.h
+c000000005207136E0000000000000421
+t1376195438
+s1057
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVViewController.h
+c000000005207136E0000000000000ACC
+t1376195438
+s2764
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVWebViewDelegate.h
+c000000005207136E00000000000005A2
+t1376195438
+s1442
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/CDVWhitelist.h
+c000000005207136E00000000000004B4
+t1376195438
+s1204
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/NSArray+Comparisons.h
+c000000005207136E0000000000000392
+t1376195438
+s914
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/NSData+Base64.h
+c000000005207136E000000000000037D
+t1376195438
+s893
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/NSDictionary+Extensions.h
+c000000005207136E00000000000005DA
+t1376195438
+s1498
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/NSMutableArray+QueueAdditions.h
+c000000005207136E00000000000003A0
+t1376195438
+s928
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include/Cordova/UIDevice+Extensions.h
+c000000005207136E0000000000000476
+t1376195438
+s1142
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/libCordova.a
+c000000005207136E000000000011A6D0
+t1376195438
+s1156816
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app
+t1376198864
+s782
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app.dSYM
+t1376195561
+s102
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app/Default-568h@2x~iphone.png
+t1376195439
+s34225
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app/Default-Landscape@2x~ipad.png
+t1376195439
+s77300
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app/Default-Landscape~ipad.png
+t1376195439
+s34935
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app/Default-Portrait@2x~ipad.png
+t1376195439
+s76546
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app/Default-Portrait~ipad.png
+t1376195439
+s34278
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app/Default@2x~iphone.png
+t1376195439
+s29475
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app/Default~iphone.png
+t1376195439
+s10394
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app/Info.plist
+t1376198864
+s1035
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app/MainViewController.nib
+t1376195439
+s822
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app/PkgInfo
+t2
+s0
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app/config.xml
+t1376198962
+s2574
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app/de.lproj/Localizable.strings
+t1376195439
+s280
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app/en.lproj/Localizable.strings
+t1376195439
+s166
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app/es.lproj/Localizable.strings
+t1376195439
+s334
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app/icon-72.png
+t1376195439
+s4944
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app/icon-72@2x.png
+t1376195439
+s11706
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app/icon.png
+t1376195439
+s3902
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app/icon@2x.png
+t1376195439
+s7869
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app/se.lproj/Localizable.strings
+t1376195439
+s283
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app/天课计算器
+t1376195561
+s375268
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Objects-normal/i386/AppDelegate.o
+t1376195440
+s98052
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Objects-normal/i386/CDVDevice.o
+t1376195561
+s79384
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Objects-normal/i386/CDVInAppBrowser.o
+t1376195561
+s216680
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Objects-normal/i386/CDVSplashScreen.o
+t1376195561
+s98176
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Objects-normal/i386/MainViewController.o
+t1376195440
+s79608
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Objects-normal/i386/main.o
+t1376195440
+s3128
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Objects-normal/i386/天课计算器.LinkFileList
+c00000000520713B500000000000003A8
+t1376195509
+s936
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Script-304B58A110DAC018002A0835.sh
+c000000005207136E000000000000051A
+t1376195438
+s1306
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Classes/AppDelegate.h
+c000000005207136B00000000000005C3
+t1376195435
+s1475
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Classes/AppDelegate.m
+c000000005207136B00000000000013B5
+t1376195435
+s5045
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Classes/MainViewController.h
+c000000005207136B00000000000004D5
+t1376195435
+s1237
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Classes/MainViewController.m
+c000000005207136B0000000000001270
+t1376195435
+s4720
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Classes/MainViewController.xib
+c000000005207136B0000000000001759
+t1376195435
+s5977
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Plugins/org.apache.cordova.core.device/CDVDevice.h
+c000000005207139800000000000003BD
+t1376195480
+s957
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Plugins/org.apache.cordova.core.device/CDVDevice.m
+c00000000520713980000000000000C22
+t1376195480
+s3106
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Plugins/org.apache.cordova.core.inappbrowser/CDVInAppBrowser.h
+c00000000520713A30000000000000CC4
+t1376195491
+s3268
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Plugins/org.apache.cordova.core.inappbrowser/CDVInAppBrowser.m
+c00000000520713A30000000000008500
+t1376195491
+s34048
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Plugins/org.apache.cordova.core.splashscreen/CDVSplashScreen.h
+c000000005207138E000000000000044D
+t1376195470
+s1101
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Plugins/org.apache.cordova.core.splashscreen/CDVSplashScreen.m
+c000000005207138E00000000000020F2
+t1376195470
+s8434
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Resources/de.lproj/Localizable.strings
+c000000005207136B00000000000004BF
+t1376195435
+s1215
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Resources/en.lproj/Localizable.strings
+c000000005207136B00000000000004AA
+t1376195435
+s1194
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Resources/es.lproj/Localizable.strings
+c000000005207136B00000000000004B7
+t1376195435
+s1207
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Resources/icons/icon-72.png
+c000000005207136B0000000000001350
+t1376195435
+s4944
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Resources/icons/icon-72@2x.png
+c000000005207136B0000000000002DBA
+t1376195435
+s11706
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Resources/icons/icon.png
+c000000005207136B0000000000000F3E
+t1376195435
+s3902
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Resources/icons/icon@2x.png
+c000000005207136B0000000000001EBD
+t1376195435
+s7869
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Resources/se.lproj/Localizable.strings
+c000000005207136B00000000000004AB
+t1376195435
+s1195
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Resources/splash/Default-568h@2x~iphone.png
+c000000005207136B00000000000085B1
+t1376195435
+s34225
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Resources/splash/Default-Landscape@2x~ipad.png
+c000000005207136B0000000000012DF4
+t1376195435
+s77300
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Resources/splash/Default-Landscape~ipad.png
+c000000005207136B0000000000008877
+t1376195435
+s34935
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Resources/splash/Default-Portrait@2x~ipad.png
+c000000005207136B0000000000012B02
+t1376195435
+s76546
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Resources/splash/Default-Portrait~ipad.png
+c000000005207136B00000000000085E6
+t1376195435
+s34278
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Resources/splash/Default@2x~iphone.png
+c000000005207136B0000000000007323
+t1376195435
+s29475
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Resources/splash/Default~iphone.png
+c000000005207136B000000000000289A
+t1376195435
+s10394
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/config.xml
+c0000000052072131000000000000077F
+t1376198961
+s1919
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/main.m
+c000000005207136B0000000000000461
+t1376195435
+s1121
+
+N/Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/天课计算器-Prefix.pch
+c000000005207136B00000000000003CF
+t1376195435
+s975
+
+N/var/folders/s_/l75dvshj1jg7_kvn4fzwpqp80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/天课计算器-Prefix-hakfwthqsjdwrzezlvlzrqbhjoxn/天课计算器-Prefix.pch.pth
+t1376195440
+s4681008
+
+N天课计算器/天课计算器-Info.plist
+c0000000052072131000000000000073D
+t1376198961
+s1853
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies8cbd57b558b7b741^f7ea57b558b7b741^---0#1#0#--18"Check dependencies36"0308CD71-DFC1-407D-B9CF-35A0A44199FF-
+
+CCompileC build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Objects-normal/i386/AppDelegate.o /Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397888240.272191
+e397888240.341357
+r1
+xCompileC
+xbuild/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Objects-normal/i386/AppDelegate.o
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Classes/AppDelegate.m7cd245f04ab7b741^136557f04ab7b741^---0#0#0#-19%DVTDocumentLocation2@162"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/Classes/AppDelegate.m0000000000000000^3774"CompileC build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Objects-normal/i386/AppDelegate.o 天课计算器/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Ali/Home/天课计算器/v3/platforms/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/天课计算器-generated-files.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/天课计算器-own-target-headers.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/天课计算器-all-target-headers.hmap -iquote /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/天课计算器-project-headers.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/usr/local/lib/include -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/UninstalledProducts/include -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/DerivedSources/i386 -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/DerivedSources -F/Users/Ali/Home/天课计算器/v3/platforms/ios/build -include /var/folders/s_/l75dvshj1jg7_kvn4fzwpqp80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/天课计算器-Prefix-hakfwthqsjdwrzezlvlzrqbhjoxn/天课计算器-Prefix.pch -MMD -MT dependencies -MF /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Objects-normal/i386/AppDelegate.dia -c /Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Classes/AppDelegate.m -o /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Objects-normal/i386/AppDelegate.o36"4A8EE7FA-E746-404A-8FC5-DF6828D449E0-
+
+CCompileC build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Objects-normal/i386/CDVDevice.o /Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Plugins/org.apache.cordova.core.device/CDVDevice.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397888361.584394
+e397888361.648263
+r1
+xCompileC
+xbuild/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Objects-normal/i386/CDVDevice.o
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Plugins/org.apache.cordova.core.device/CDVDevice.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Compile /Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Plugins/org.apache.cordova.core.device/CDVDevice.m5fb695694bb7b741^5586ad694bb7b741^---0#0#0#-19%DVTDocumentLocation2@191"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/Plugins/org.apache.cordova.core.device/CDVDevice.m0000000000000000^3824"CompileC build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Objects-normal/i386/CDVDevice.o 天课计算器/Plugins/org.apache.cordova.core.device/CDVDevice.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Ali/Home/天课计算器/v3/platforms/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/天课计算器-generated-files.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/天课计算器-own-target-headers.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/天课计算器-all-target-headers.hmap -iquote /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/天课计算器-project-headers.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/usr/local/lib/include -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/UninstalledProducts/include -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/DerivedSources/i386 -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/DerivedSources -F/Users/Ali/Home/天课计算器/v3/platforms/ios/build -include /var/folders/s_/l75dvshj1jg7_kvn4fzwpqp80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/天课计算器-Prefix-hakfwthqsjdwrzezlvlzrqbhjoxn/天课计算器-Prefix.pch -MMD -MT dependencies -MF /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Objects-normal/i386/CDVDevice.d --serialize-diagnostics /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Objects-normal/i386/CDVDevice.dia -c /Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Plugins/org.apache.cordova.core.device/CDVDevice.m -o /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Objects-normal/i386/CDVDevice.o36"65B0C663-6CF9-4470-AC71-7997A458C98D-
+
+CCompileC build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Objects-normal/i386/CDVInAppBrowser.o /Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Plugins/org.apache.cordova.core.inappbrowser/CDVInAppBrowser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397888361.584427
+e397888361.739985
+r1
+xCompileC
+xbuild/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Objects-normal/i386/CDVInAppBrowser.o
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Plugins/org.apache.cordova.core.inappbrowser/CDVInAppBrowser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection135"Compile /Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Plugins/org.apache.cordova.core.inappbrowser/CDVInAppBrowser.mdcb895694bb7b741^116fbd694bb7b741^---0#0#0#-19%DVTDocumentLocation2@203"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/Plugins/org.apache.cordova.core.inappbrowser/CDVInAppBrowser.m0000000000000000^3872"CompileC build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Objects-normal/i386/CDVInAppBrowser.o 天课计算器/Plugins/org.apache.cordova.core.inappbrowser/CDVInAppBrowser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Ali/Home/天课计算器/v3/platforms/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/天课计算器-generated-files.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/天课计算器-own-target-headers.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/天课计算器-all-target-headers.hmap -iquote /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/天课计算器-project-headers.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/usr/local/lib/include -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/UninstalledProducts/include -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/DerivedSources/i386 -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/DerivedSources -F/Users/Ali/Home/天课计算器/v3/platforms/ios/build -include /var/folders/s_/l75dvshj1jg7_kvn4fzwpqp80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/天课计算器-Prefix-hakfwthqsjdwrzezlvlzrqbhjoxn/天课计算器-Prefix.pch -MMD -MT dependencies -MF /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Objects-normal/i386/CDVInAppBrowser.d --serialize-diagnostics /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Objects-normal/i386/CDVInAppBrowser.dia -c /Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Plugins/org.apache.cordova.core.inappbrowser/CDVInAppBrowser.m -o /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Objects-normal/i386/CDVInAppBrowser.o36"9083D34F-F05D-44D8-BAD5-5831D9D9159B-
+
+CCompileC build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Objects-normal/i386/CDVSplashScreen.o /Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Plugins/org.apache.cordova.core.splashscreen/CDVSplashScreen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397888361.583146
+e397888361.673374
+r1
+xCompileC
+xbuild/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Objects-normal/i386/CDVSplashScreen.o
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Plugins/org.apache.cordova.core.splashscreen/CDVSplashScreen.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection135"Compile /Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Plugins/org.apache.cordova.core.splashscreen/CDVSplashScreen.m806595694bb7b741^ce89ad694bb7b741^---0#0#0#-19%DVTDocumentLocation2@203"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/Plugins/org.apache.cordova.core.splashscreen/CDVSplashScreen.m0000000000000000^3872"CompileC build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Objects-normal/i386/CDVSplashScreen.o 天课计算器/Plugins/org.apache.cordova.core.splashscreen/CDVSplashScreen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Ali/Home/天课计算器/v3/platforms/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/天课计算器-generated-files.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/天课计算器-own-target-headers.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/天课计算器-all-target-headers.hmap -iquote /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/天课计算器-project-headers.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/usr/local/lib/include -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/UninstalledProducts/include -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/DerivedSources/i386 -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/DerivedSources -F/Users/Ali/Home/天课计算器/v3/platforms/ios/build -include /var/folders/s_/l75dvshj1jg7_kvn4fzwpqp80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/天课计算器-Prefix-hakfwthqsjdwrzezlvlzrqbhjoxn/天课计算器-Prefix.pch -MMD -MT dependencies -MF /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Objects-normal/i386/CDVSplashScreen.d --serialize-diagnostics /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Objects-normal/i386/CDVSplashScreen.dia -c /Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Plugins/org.apache.cordova.core.splashscreen/CDVSplashScreen.m -o /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Objects-normal/i386/CDVSplashScreen.o36"6CA3F752-05B8-43D2-9006-13A03D201248-
+
+CCompileC build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Objects-normal/i386/MainViewController.o /Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397888240.272198
+e397888240.328317
+r1
+xCompileC
+xbuild/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Objects-normal/i386/MainViewController.o
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Classes/MainViewController.me3dd45f04ab7b741^0f0c54f04ab7b741^---0#0#0#-19%DVTDocumentLocation2@169"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/Classes/MainViewController.m0000000000000000^3816"CompileC build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Objects-normal/i386/MainViewController.o 天课计算器/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Ali/Home/天课计算器/v3/platforms/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/天课计算器-generated-files.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/天课计算器-own-target-headers.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/天课计算器-all-target-headers.hmap -iquote /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/天课计算器-project-headers.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/usr/local/lib/include -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/UninstalledProducts/include -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/DerivedSources/i386 -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/DerivedSources -F/Users/Ali/Home/天课计算器/v3/platforms/ios/build -include /var/folders/s_/l75dvshj1jg7_kvn4fzwpqp80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/天课计算器-Prefix-hakfwthqsjdwrzezlvlzrqbhjoxn/天课计算器-Prefix.pch -MMD -MT dependencies -MF /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Objects-normal/i386/MainViewController.d --serialize-diagnostics /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Objects-normal/i386/MainViewController.dia -c /Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Classes/MainViewController.m -o /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Objects-normal/i386/MainViewController.o36"114560B6-81B3-4E3C-B951-49BD836045CA-
+
+CCompileC build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Objects-normal/i386/main.o /Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397888240.272185
+e397888240.293215
+r1
+xCompileC
+xbuild/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Objects-normal/i386/main.o
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/main.m4fcd45f04ab7b741^c40a4bf04ab7b741^---0#0#0#-19%DVTDocumentLocation2@147"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/main.m0000000000000000^3716"CompileC build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Objects-normal/i386/main.o 天课计算器/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Ali/Home/天课计算器/v3/platforms/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/天课计算器-generated-files.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/天课计算器-own-target-headers.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/天课计算器-all-target-headers.hmap -iquote /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/天课计算器-project-headers.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/usr/local/lib/include -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/UninstalledProducts/include -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/DerivedSources/i386 -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/DerivedSources -F/Users/Ali/Home/天课计算器/v3/platforms/ios/build -include /var/folders/s_/l75dvshj1jg7_kvn4fzwpqp80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/天课计算器-Prefix-hakfwthqsjdwrzezlvlzrqbhjoxn/天课计算器-Prefix.pch -MMD -MT dependencies -MF /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Objects-normal/i386/main.dia -c /Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/main.m -o /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Objects-normal/i386/main.o36"3B13BDDC-8368-4E86-A723-C14FF1495285-
+
+CCompileXIB /Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Classes/MainViewController.xib
+s397888239.153445
+e397888239.997322
+r1
+xCompileXIB
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Classes/MainViewController.xib
+o2013-08-11 12:30:39.654 Interface Builder Cocoa Touch Tool[5019:f07] CFPreferences: user home directory at file://localhost/Users/Ali/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compiling /Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Classes/MainViewController.xibde5927ef4ab7b741^5452ffef4ab7b741^-235"2013-08-11 12:30:39.654 Interface Builder Cocoa Touch Tool[5019:f07] CFPreferences: user home directory at file://localhost/Users/Ali/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#0#-19%DVTDocumentLocation2@171"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/Classes/MainViewController.xib0000000000000000^1009"CompileXIB 天课计算器/Classes/MainViewController.xib    cd /Users/Ali/Home/天课计算器/v3/platforms/ios    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app/MainViewController.nib /Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Classes/MainViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk36"42FCCBA0-E04F-42D7-B3D1-D9B17B0419B2-
+
+CCopyStringsFile /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app/de.lproj/Localizable.strings 天课计算器/Resources/de.lproj/Localizable.strings
+s397888239.154536
+e397888239.161033
+r1
+xCopyStringsFile
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app/de.lproj/Localizable.strings
+x天课计算器/Resources/de.lproj/Localizable.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Copy 天课计算器/Resources/de.lproj/Localizable.strings40a027ef4ab7b741^c43e29ef4ab7b741^---0#0#0#-19%DVTDocumentLocation2@179"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/Resources/de.lproj/Localizable.strings0000000000000000^671"CopyStringsFile build/天课计算器.app/de.lproj/Localizable.strings 天课计算器/Resources/de.lproj/Localizable.strings    cd /Users/Ali/Home/天课计算器/v3/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app/de.lproj -- 天课计算器/Resources/de.lproj/Localizable.strings36"5C1AF90B-9A49-4F38-8257-A3601E03D610-
+
+CCopyStringsFile /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app/en.lproj/Localizable.strings 天课计算器/Resources/en.lproj/Localizable.strings
+s397888239.151262
+e397888239.160879
+r1
+xCopyStringsFile
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app/en.lproj/Localizable.strings
+x天课计算器/Resources/en.lproj/Localizable.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Copy 天课计算器/Resources/en.lproj/Localizable.strings8ecd26ef4ab7b741^eb3529ef4ab7b741^---0#0#0#-19%DVTDocumentLocation2@179"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/Resources/en.lproj/Localizable.strings0000000000000000^671"CopyStringsFile build/天课计算器.app/en.lproj/Localizable.strings 天课计算器/Resources/en.lproj/Localizable.strings    cd /Users/Ali/Home/天课计算器/v3/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app/en.lproj -- 天课计算器/Resources/en.lproj/Localizable.strings36"AD98050D-DB7A-4A41-B23E-773914BA64E6-
+
+CCopyStringsFile /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app/es.lproj/Localizable.strings 天课计算器/Resources/es.lproj/Localizable.strings
+s397888239.151284
+e397888239.160901
+r1
+xCopyStringsFile
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app/es.lproj/Localizable.strings
+x天课计算器/Resources/es.lproj/Localizable.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Copy 天课计算器/Resources/es.lproj/Localizable.strings3acd26ef4ab7b741^3a3b29ef4ab7b741^---0#0#0#-19%DVTDocumentLocation2@179"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/Resources/es.lproj/Localizable.strings0000000000000000^671"CopyStringsFile build/天课计算器.app/es.lproj/Localizable.strings 天课计算器/Resources/es.lproj/Localizable.strings    cd /Users/Ali/Home/天课计算器/v3/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app/es.lproj -- 天课计算器/Resources/es.lproj/Localizable.strings36"9EAA6BF2-25ED-492C-915B-21521721A376-
+
+CCopyStringsFile /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app/se.lproj/Localizable.strings 天课计算器/Resources/se.lproj/Localizable.strings
+s397888239.162110
+e397888239.165616
+r1
+xCopyStringsFile
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app/se.lproj/Localizable.strings
+x天课计算器/Resources/se.lproj/Localizable.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Copy 天课计算器/Resources/se.lproj/Localizable.strings089429ef4ab7b741^02662aef4ab7b741^---0#0#0#-19%DVTDocumentLocation2@179"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/Resources/se.lproj/Localizable.strings0000000000000000^671"CopyStringsFile build/天课计算器.app/se.lproj/Localizable.strings 天课计算器/Resources/se.lproj/Localizable.strings    cd /Users/Ali/Home/天课计算器/v3/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app/se.lproj -- 天课计算器/Resources/se.lproj/Localizable.strings36"77B2B659-FC56-498E-9757-4C9EB78F7706-
+
+CCpResource 天课计算器/Resources/icons/icon-72.png build/天课计算器.app/icon-72.png
+s397888239.147856
+e397888239.151172
+r1
+xCpResource
+x天课计算器/Resources/icons/icon-72.png
+xbuild/天课计算器.app/icon-72.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Copy build/天课计算器.app/icon-72.pngd5ec25ef4ab7b741^9ab326ef4ab7b741^---0#0#0#-19%DVTDocumentLocation2@162"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/build/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8.app/icon-72.png000000000080d041^686"CpResource 天课计算器/Resources/icons/icon-72.png build/天课计算器.app/icon-72.png    cd /Users/Ali/Home/天课计算器/v3/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Resources/icons/icon-72.png /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app36"AA4401B9-785B-4957-8DA1-21BAA463889B-
+
+CCpResource 天课计算器/Resources/icons/icon-72@2x.png build/天课计算器.app/icon-72@2x.png
+s397888239.170939
+e397888239.173128
+r1
+xCpResource
+x天课计算器/Resources/icons/icon-72@2x.png
+xbuild/天课计算器.app/icon-72@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Copy build/天课计算器.app/icon-72@2x.pngc3d32bef4ab7b741^b1532cef4ab7b741^---0#0#0#-19%DVTDocumentLocation2@165"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/build/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8.app/icon-72@2x.png000000000080d041^701"CpResource "天课计算器/Resources/icons/icon-72@2x.png" "build/天课计算器.app/icon-72@2x.png"    cd /Users/Ali/Home/天课计算器/v3/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Resources/icons/icon-72@2x.png" /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app36"59898903-175F-40B0-9550-5EFFE0B25A92-
+
+CCpResource 天课计算器/Resources/icons/icon.png build/天课计算器.app/icon.png
+s397888239.147892
+e397888239.152308
+r1
+xCpResource
+x天课计算器/Resources/icons/icon.png
+xbuild/天课计算器.app/icon.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Copy build/天课计算器.app/icon.png29ed25ef4ab7b741^cafd26ef4ab7b741^---0#0#0#-19%DVTDocumentLocation2@159"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/build/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8.app/icon.png000000000080d041^677"CpResource 天课计算器/Resources/icons/icon.png build/天课计算器.app/icon.png    cd /Users/Ali/Home/天课计算器/v3/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Resources/icons/icon.png /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app36"86FA4F1F-A042-49A6-9E80-F12B187C6B62-
+
+CCpResource 天课计算器/Resources/icons/icon@2x.png build/天课计算器.app/icon@2x.png
+s397888239.148090
+e397888239.153425
+r1
+xCpResource
+x天课计算器/Resources/icons/icon@2x.png
+xbuild/天课计算器.app/icon@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Copy build/天课计算器.app/icon@2x.pngb9fa25ef4ab7b741^1f4727ef4ab7b741^---0#0#0#-19%DVTDocumentLocation2@162"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/build/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8.app/icon@2x.png000000000080d041^692"CpResource "天课计算器/Resources/icons/icon@2x.png" "build/天课计算器.app/icon@2x.png"    cd /Users/Ali/Home/天课计算器/v3/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Resources/icons/icon@2x.png" /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app36"AD7C321F-A8BE-4DD9-AD6A-8C3FB522813F-
+
+CCpResource 天课计算器/Resources/splash/Default-568h@2x~iphone.png build/天课计算器.app/Default-568h@2x~iphone.png
+s397888239.168767
+e397888239.171868
+r1
+xCpResource
+x天课计算器/Resources/splash/Default-568h@2x~iphone.png
+xbuild/天课计算器.app/Default-568h@2x~iphone.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Copy build/天课计算器.app/Default-568h@2x~iphone.pngfe462bef4ab7b741^efff2bef4ab7b741^---0#0#0#-19%DVTDocumentLocation2@177"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/build/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8.app/Default-568h@2x~iphone.png000000000080d041^739"CpResource "天课计算器/Resources/splash/Default-568h@2x~iphone.png" "build/天课计算器.app/Default-568h@2x~iphone.png"    cd /Users/Ali/Home/天课计算器/v3/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Resources/splash/Default-568h@2x~iphone.png" /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app36"98E55D43-2F14-4066-A406-F191267433B6-
+
+CCpResource 天课计算器/Resources/splash/Default-Landscape@2x~ipad.png build/天课计算器.app/Default-Landscape@2x~ipad.png
+s397888239.162106
+e397888239.166518
+r1
+xCpResource
+x天课计算器/Resources/splash/Default-Landscape@2x~ipad.png
+xbuild/天课计算器.app/Default-Landscape@2x~ipad.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy build/天课计算器.app/Default-Landscape@2x~ipad.pngb49329ef4ab7b741^fda02aef4ab7b741^---0#0#0#-19%DVTDocumentLocation2@180"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/build/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8.app/Default-Landscape@2x~ipad.png000000000080d041^748"CpResource "天课计算器/Resources/splash/Default-Landscape@2x~ipad.png" "build/天课计算器.app/Default-Landscape@2x~ipad.png"    cd /Users/Ali/Home/天课计算器/v3/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Resources/splash/Default-Landscape@2x~ipad.png" /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app36"B960BF2E-D7B3-4C5F-AE3D-CCD72E07FC6C-
+
+CCpResource 天课计算器/Resources/splash/Default-Landscape~ipad.png build/天课计算器.app/Default-Landscape~ipad.png
+s397888239.162113
+e397888239.164289
+r1
+xCpResource
+x天课计算器/Resources/splash/Default-Landscape~ipad.png
+xbuild/天课计算器.app/Default-Landscape~ipad.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Copy build/天课计算器.app/Default-Landscape~ipad.pnga39329ef4ab7b741^45112aef4ab7b741^---0#0#0#-19%DVTDocumentLocation2@177"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/build/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8.app/Default-Landscape~ipad.png000000000080d041^739"CpResource "天课计算器/Resources/splash/Default-Landscape~ipad.png" "build/天课计算器.app/Default-Landscape~ipad.png"    cd /Users/Ali/Home/天课计算器/v3/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Resources/splash/Default-Landscape~ipad.png" /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app36"90598801-E101-4503-9AA8-593982B0547B-
+
+CCpResource 天课计算器/Resources/splash/Default-Portrait@2x~ipad.png build/天课计算器.app/Default-Portrait@2x~ipad.png
+s397888239.165448
+e397888239.167660
+r1
+xCpResource
+x天课计算器/Resources/splash/Default-Portrait@2x~ipad.png
+xbuild/天课计算器.app/Default-Portrait@2x~ipad.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Copy build/天课计算器.app/Default-Portrait@2x~ipad.png4c6c2aef4ab7b741^e6eb2aef4ab7b741^---0#0#0#-19%DVTDocumentLocation2@179"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/build/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8.app/Default-Portrait@2x~ipad.png000000000080d041^745"CpResource "天课计算器/Resources/splash/Default-Portrait@2x~ipad.png" "build/天课计算器.app/Default-Portrait@2x~ipad.png"    cd /Users/Ali/Home/天课计算器/v3/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Resources/splash/Default-Portrait@2x~ipad.png" /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app36"18072432-1719-42C9-AC2B-C3D4215B188F-
+
+CCpResource 天课计算器/Resources/splash/Default-Portrait~ipad.png build/天课计算器.app/Default-Portrait~ipad.png
+s397888239.166733
+e397888239.168653
+r1
+xCpResource
+x天课计算器/Resources/splash/Default-Portrait~ipad.png
+xbuild/天课计算器.app/Default-Portrait~ipad.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy build/天课计算器.app/Default-Portrait~ipad.png1ec02aef4ab7b741^f92c2bef4ab7b741^---0#0#0#-19%DVTDocumentLocation2@176"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/build/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8.app/Default-Portrait~ipad.png000000000080d041^736"CpResource "天课计算器/Resources/splash/Default-Portrait~ipad.png" "build/天课计算器.app/Default-Portrait~ipad.png"    cd /Users/Ali/Home/天课计算器/v3/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Resources/splash/Default-Portrait~ipad.png" /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app36"FC522176-BA14-4FA8-8810-9C1D5DA8404D-
+
+CCpResource 天课计算器/Resources/splash/Default@2x~iphone.png build/天课计算器.app/Default@2x~iphone.png
+s397888239.166730
+e397888239.169718
+r1
+xCpResource
+x天课计算器/Resources/splash/Default@2x~iphone.png
+xbuild/天课计算器.app/Default@2x~iphone.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Copy build/天课计算器.app/Default@2x~iphone.png51c02aef4ab7b741^e7722bef4ab7b741^---0#0#0#-19%DVTDocumentLocation2@172"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/build/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8.app/Default@2x~iphone.png000000000080d041^724"CpResource "天课计算器/Resources/splash/Default@2x~iphone.png" "build/天课计算器.app/Default@2x~iphone.png"    cd /Users/Ali/Home/天课计算器/v3/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Resources/splash/Default@2x~iphone.png" /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app36"80F39EC0-3865-4D27-832E-E91AC797E2D4-
+
+CCpResource 天课计算器/Resources/splash/Default~iphone.png build/天课计算器.app/Default~iphone.png
+s397888239.168772
+e397888239.170789
+r1
+xCpResource
+x天课计算器/Resources/splash/Default~iphone.png
+xbuild/天课计算器.app/Default~iphone.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy build/天课计算器.app/Default~iphone.png1f472bef4ab7b741^41bb2bef4ab7b741^---0#0#0#-19%DVTDocumentLocation2@169"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/build/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8.app/Default~iphone.png000000000080d041^715"CpResource "天课计算器/Resources/splash/Default~iphone.png" "build/天课计算器.app/Default~iphone.png"    cd /Users/Ali/Home/天课计算器/v3/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/Resources/splash/Default~iphone.png" /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app36"C005A98E-E876-4F5E-BB7F-8CB76F94B70C-
+
+CCpResource 天课计算器/config.xml build/天课计算器.app/config.xml
+s397888243.378526
+e397888243.380535
+r1
+xCpResource
+x天课计算器/config.xml
+xbuild/天课计算器.app/config.xml
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy build/天课计算器.app/config.xml98fb60f34ab7b741^336b61f34ab7b741^---0#0#0#-19%DVTDocumentLocation2@161"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/build/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8.app/config.xml0000000000000000^651"CpResource 天课计算器/config.xml build/天课计算器.app/config.xml    cd /Users/Ali/Home/天课计算器/v3/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/config.xml /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app36"56F150B3-350F-447B-BE06-FBFEC8DD4098-
+
+CGenerateDSYMFile /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app.dSYM /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app/天课计算器
+s397888361.795115
+e397888361.851342
+r1
+xGenerateDSYMFile
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app.dSYM
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app/天课计算器
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Generate /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app.dSYM84a0cb694bb7b741^6bf1d9694bb7b741^---0#0#0#-19%DVTDocumentLocation2@156"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/build/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8.app.dSYM/0000000000000000^677"GenerateDSYMFile build/天课计算器.app.dSYM build/天课计算器.app/天课计算器    cd /Users/Ali/Home/天课计算器/v3/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app/天课计算器 -o /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app.dSYM36"CA80038F-3719-4992-9A70-746F7A70DEDE-
+
+CLd /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app/天课计算器 normal i386
+s397888361.746478
+e397888361.788537
+r1
+xLd
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app/天课计算器
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Link /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app/天课计算器b553bf694bb7b741^6eddc9694bb7b741^---0#0#0#--1872"Ld build/天课计算器.app/天课计算器 normal i386    cd /Users/Ali/Home/天课计算器/v3/platforms/ios    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -L/Users/Ali/Home/天课计算器/v3/platforms/ios/build -F/Users/Ali/Home/天课计算器/v3/platforms/ios/build -filelist /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Objects-normal/i386/天课计算器.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -force_load /Users/Ali/Home/天课计算器/v3/platforms/ios/build/libCordova.a -ObjC -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=5.0 -framework CoreLocation -framework ImageIO -framework OpenAL -framework AssetsLibrary /Users/Ali/Home/天课计算器/v3/platforms/ios/build/libCordova.a -framework Foundation -weak_framework UIKit -framework CoreGraphics -framework AddressBook -framework AddressBookUI -framework AudioToolbox -weak_framework AVFoundation -framework CFNetwork -framework MediaPlayer -framework QuartzCore -framework SystemConfiguration -framework MobileCoreServices -weak_framework CoreMedia -framework CoreLocation -o /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app/天课计算器36"571566CF-E739-4FCE-B4CD-38D545ACCF0C-
+
+CPhaseScriptExecution "Copy www directory" /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Script-304B58A110DAC018002A0835.sh
+s397891765.362582
+e397891765.583625
+r1
+xPhaseScriptExecution
+xCopy www directory
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Script-304B58A110DAC018002A0835.sh
+o
+oreal	0m0.201s
+ouser	0m0.090s
+osys	0m0.097s
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Run custom shell script 'Copy www directory'64775db558b7b741^bd7295b558b7b741^-42"real	0m0.201suser	0m0.090ssys	0m0.097s3(21%IDEActivityLogMessage2@14"real	0m0.201s-397891765#1#14#-0#-----2@14"user	0m0.090s-397891765#15#14#-0#-----2@13"sys	0m0.097s-397891765#29#13#-0#-----0#0#0#--21307"PhaseScriptExecution "Copy www directory" build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Script-304B58A110DAC018002A0835.sh    cd /Users/Ali/Home/天课计算器/v3/platforms/ios    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER Ali    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_UNIVERSAL_IPHONE_OS i386    setenv AVAILABLE_PLATFORMS "iphonesimulator macosx iphoneos"    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/Ali/Home/天课计算器/v3/platforms/ios/build    setenv BUILD_ROOT /Users/Ali/Home/天课计算器/v3/platforms/ios/build    setenv BUILD_STYLE     setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/Ali/Home/天课计算器/v3/platforms/ios/build    setenv CACHE_ROOT /var/folders/s_/l75dvshj1jg7_kvn4fzwpqp80000gn/C/com.apple.Xcode.501    setenv CCHROOT /var/folders/s_/l75dvshj1jg7_kvn4fzwpqp80000gn/C/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLANG_ENABLE_OBJC_ARC YES    setenv CLANG_WARN_CONSTANT_CONVERSION YES    setenv CLANG_WARN_ENUM_CONVERSION YES    setenv CLANG_WARN_INT_CONVERSION YES    setenv CLANG_WARN__DUPLICATE_METHOD_MATCH YES    setenv CLASS_FILE_DIR /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/s_/l75dvshj1jg7_kvn4fzwpqp80000gn/C/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/Ali/Home/天课计算器/v3/platforms/ios/build    setenv CONFIGURATION_TEMP_DIR /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator    setenv CONTENTS_FOLDER_PATH 天课计算器.app    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEFAULT_COMPILER com.apple.compilers.llvm.clang.1_0    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Applications/Xcode.app/Contents/Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Applications/Xcode.app/Contents/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/Developer/Library    setenv DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Tools    setenv DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH 天课计算器.app/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/天课计算器.dst    setenv DT_TOOLCHAIN_DIR /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain    setenv DWARF_DSYM_FILE_NAME 天课计算器.app.dSYM    setenv DWARF_DSYM_FILE_SHOULD_ACCOMPANY_PRODUCT NO    setenv DWARF_DSYM_FOLDER_PATH /Users/Ali/Home/天课计算器/v3/platforms/ios/build    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".DS_Store .svn .git .hg CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) .DS_Store CVS .svn .git .hg *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH 天课计算器.app/Executables    setenv EXECUTABLE_FOLDER_PATH 天课计算器.app    setenv EXECUTABLE_NAME 天课计算器    setenv EXECUTABLE_PATH 天课计算器.app/天课计算器    setenv FILE_LIST /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH 天课计算器.app/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/Ali/Home/天课计算器/v3/platforms/ios/build\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME 天课计算器.app    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD c99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OBJC_LEGACY_DISPATCH YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER 天课计算器/天课计算器-Prefix.pch    setenv GCC_SYMBOLS_PRIVATE_EXTERN YES    setenv GCC_THUMB_SUPPORT NO    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION com.apple.compilers.llvm.clang.1_0    setenv GCC_VERSION_IDENTIFIER com_apple_compilers_llvm_clang_1_0    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNINITIALIZED_AUTOS YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include\" \"/Users/Ali/Home/天课计算器/v3/platforms/ios/build/usr/local/lib/include\" \"/Users/Ali/Home/天课计算器/v3/platforms/ios/build/UninstalledProducts/include\" \"/Users/Ali/Home/天课计算器/v3/platforms/ios/build\""    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE 天课计算器/天课计算器-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH 天课计算器.app/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH 天课计算器.app/English.lproj/InfoPlist.strings    setenv INSTALL_DIR /tmp/天课计算器.dst/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER Ali    setenv INSTALL_PATH /Applications    setenv INSTALL_ROOT /tmp/天课计算器.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH 天课计算器.app/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/天课计算器-LinkMap-normal-i386.txt    setenv LD_NO_PIE NO    setenv LEGACY_DEVELOPER_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer    setenv LEX lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/Ali/Home/天课计算器/v3/platforms/ios/build\" "    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Objects-normal/i386/天课计算器.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH 天课计算器.app/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_PRODUCT_BUILD_VERSION 12E55    setenv MAC_OS_X_VERSION_ACTUAL 1084    setenv MAC_OS_X_VERSION_MAJOR 1080    setenv MAC_OS_X_VERSION_MINOR 0804    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJC_ABI_VERSION 2    setenv OBJECT_FILE_DIR /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Objects-normal    setenv OBJROOT /Users/Ali/Home/天课计算器/v3/platforms/ios/build    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_LDFLAGS "-weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -force_load \"/Users/Ali/Home/天课计算器/v3/platforms/ios/build/libCordova.a\" -ObjC"    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Applications/Xcode.app/Contents/Developer/Headers /Applications/Xcode.app/Contents/Developer/SDKs /Applications/Xcode.app/Contents/Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH 天课计算器.app/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c    setenv PKGINFO_FILE_PATH /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/PkgInfo    setenv PKGINFO_PATH 天课计算器.app/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLATFORM_PREFERRED_ARCH i386    setenv PLATFORM_PRODUCT_BUILD_VERSION 10B141    setenv PLATFORM_VERSION_AVAILABILITY_H_FORMAT 60100    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH 天课计算器.app/PlugIns    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH 天课计算器.app/PrivateHeaders    setenv PRODUCT_NAME 天课计算器    setenv PRODUCT_SETTINGS_PATH /Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/天课计算器-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT 天课计算器    setenv PROJECT_DERIVED_FILE_DIR /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/DerivedSources    setenv PROJECT_DIR /Users/Ali/Home/天课计算器/v3/platforms/ios    setenv PROJECT_FILE_PATH /Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器.xcodeproj    setenv PROJECT_NAME 天课计算器    setenv PROJECT_TEMP_DIR /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build    setenv PROJECT_TEMP_ROOT /Users/Ali/Home/天课计算器/v3/platforms/ios/build    setenv PUBLIC_HEADERS_FOLDER_PATH 天课计算器.app/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_HG_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/Ali/Home/天课计算器/v3/platforms/ios/build\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH 天课计算器.app/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk    setenv SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk    setenv SDK_NAME iphonesimulator6.1    setenv SDK_PRODUCT_BUILD_VERSION 10B141    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR /Users/Ali/Home/天课计算器/v3/platforms/ios/build/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH 天课计算器.app/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/s_/l75dvshj1jg7_kvn4fzwpqp80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH 天课计算器.app/SharedSupport    setenv SKIP_INSTALL NO    setenv SOURCE_ROOT /Users/Ali/Home/天课计算器/v3/platforms/ios    setenv SRCROOT /Users/Ali/Home/天课计算器/v3/platforms/ios    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SUPPORTED_DEVICE_FAMILIES "1 2"    setenv SUPPORTED_PLATFORMS "iphonesimulator iphoneos"    setenv SYMROOT /Users/Ali/Home/天课计算器/v3/platforms/ios/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Applications/Xcode.app/Contents/Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Applications/Xcode.app/Contents/Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1,2    setenv TARGETNAME 天课计算器    setenv TARGET_BUILD_DIR /Users/Ali/Home/天课计算器/v3/platforms/ios/build    setenv TARGET_NAME 天课计算器    setenv TARGET_TEMP_DIR /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build    setenv TEMP_DIR /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build    setenv TEMP_FILES_DIR /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build    setenv TEMP_FILE_DIR /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build    setenv TEMP_ROOT /Users/Ali/Home/天课计算器/v3/platforms/ios/build    setenv TEST_AFTER_BUILD NO    setenv TOOLCHAINS com.apple.dt.toolchain.XcodeDefault    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH 天课计算器.app    setenv UNSTRIPPED_PRODUCT NO    setenv USER Ali    setenv USER_APPS_DIR /Users/Ali/Applications    setenv USER_LIBRARY_DIR /Users/Ali/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS i386    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH 天课计算器.app/version.plist    setenv VERSION_INFO_BUILDER Ali    setenv VERSION_INFO_FILE 天课计算器_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:天课计算器  PROJECT:天课计算器-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME 天课计算器.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Applications/Xcode.app/Contents/Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 4H1503    setenv XCODE_VERSION_ACTUAL 0463    setenv XCODE_VERSION_MAJOR 0400    setenv XCODE_VERSION_MINOR 0460    setenv YACC yacc    /bin/sh -c /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/Script-304B58A110DAC018002A0835.sh36"734F1486-7FCA-4901-81D5-F22D977B466C-
+
+CProcessInfoPlistFile /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app/Info.plist 天课计算器/天课计算器-Info.plist
+s397891765.351109
+e397891765.354387
+r1
+xProcessInfoPlistFile
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app/Info.plist
+x天课计算器/天课计算器-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Process 天课计算器/天课计算器-Info.plist6af959b558b7b741^91b95ab558b7b741^---0#0#0#-19%DVTDocumentLocation2@197"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8-Info.plist0000000000000000^732"ProcessInfoPlistFile build/天课计算器.app/Info.plist 天课计算器/天课计算器-Info.plist    cd /Users/Ali/Home/天课计算器/v3/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    builtin-infoPlistUtility 天课计算器/天课计算器-Info.plist -genpkginfo /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app/Info.plist36"F2D0FF40-375D-4C3E-8539-14E2A2D5EDF8-
+
+CProcessPCH /var/folders/s_/l75dvshj1jg7_kvn4fzwpqp80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/天课计算器-Prefix-hakfwthqsjdwrzezlvlzrqbhjoxn/天课计算器-Prefix.pch.pth 天课计算器/天课计算器-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397888240.005402
+e397888240.265248
+r1
+xProcessPCH
+x/var/folders/s_/l75dvshj1jg7_kvn4fzwpqp80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/天课计算器-Prefix-hakfwthqsjdwrzezlvlzrqbhjoxn/天课计算器-Prefix.pch.pth
+x天课计算器/天课计算器-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Precompile 天课计算器/天课计算器-Prefix.pch1b8001f04ab7b741^14e843f04ab7b741^---0#0#0#-19%DVTDocumentLocation2@197"file://localhost/Users/Ali/Home/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/v3/platforms/ios/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8/%E5%A4%A9%E8%AF%BE%E8%AE%A1%E7%AE%97%E5%99%A8-Prefix.pch0000000000000000^3744"ProcessPCH /var/folders/s_/l75dvshj1jg7_kvn4fzwpqp80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/天课计算器-Prefix-hakfwthqsjdwrzezlvlzrqbhjoxn/天课计算器-Prefix.pch.pth 天课计算器/天课计算器-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Ali/Home/天课计算器/v3/platforms/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/天课计算器-generated-files.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/天课计算器-own-target-headers.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/天课计算器-all-target-headers.hmap -iquote /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/天课计算器-project-headers.hmap -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/include -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/usr/local/lib/include -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/UninstalledProducts/include -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/DerivedSources/i386 -I/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.build/Debug-iphonesimulator/天课计算器.build/DerivedSources -F/Users/Ali/Home/天课计算器/v3/platforms/ios/build --serialize-diagnostics /var/folders/s_/l75dvshj1jg7_kvn4fzwpqp80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/天课计算器-Prefix-hakfwthqsjdwrzezlvlzrqbhjoxn/天课计算器-Prefix.pch.dia -c /Users/Ali/Home/天课计算器/v3/platforms/ios/天课计算器/天课计算器-Prefix.pch -o /var/folders/s_/l75dvshj1jg7_kvn4fzwpqp80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/天课计算器-Prefix-hakfwthqsjdwrzezlvlzrqbhjoxn/天课计算器-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/s_/l75dvshj1jg7_kvn4fzwpqp80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/天课计算器-Prefix-hakfwthqsjdwrzezlvlzrqbhjoxn/天课计算器-Prefix.pch.d36"5D508420-7408-48EE-BD82-35AC1B1A1D59-
+
+CTouch /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app
+s397891765.636856
+e397891765.641980
+r1
+xTouch
+x/Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Touch /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app541ca3b558b7b741^de58a4b558b7b741^---0#0#0#--442"Touch build/天课计算器.app    cd /Users/Ali/Home/天课计算器/v3/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Ali/Home/go_appengine:/usr/local/go/bin"    /usr/bin/touch -c /Users/Ali/Home/天课计算器/v3/platforms/ios/build/天课计算器.app36"2D80A88E-FFC3-420F-B8AD-F1BB1AFC16F3-
+

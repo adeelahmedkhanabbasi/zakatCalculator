@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="net.qmzh.zakat" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <!--
+     http://docs.phonegap.com/en/3.0.0/guide_platforms_ios_config.md.html#iOS%20Configuration
+     https://build.phonegap.com/docs/config-xml
+     -->
+    <name>天课计算器</name>
+    
+    <description>
+        自动获取每日金价银价，用最简洁明了的方式告诉你需要缴纳多少天课。
+    </description>
+    <author href="http://www.qmzh.net" email="i@qmzh.net">
+        张航
+    </author>
+    <preference name="DisallowOverscroll" value="true" />
+    <preference name="target-device" value="universal" />
+    <preference name="detect-data-types" value="false" />
+    <preference name="android-installLocation" value="auto" />
+    <preference name="AutoHideSplashScreen" value="false" />
+    <preference name="FadeSplashScreen" value="false" />
+    <preference name="ShowSplashScreenSpinner" value="false" />
+    <feature name="Device">
+        <param name="ios-package" value="CDVDevice"/>
+        <param name="onload" value="true" />
+    </feature>
+    <feature name="InAppBrowser">
+        <param name="ios-package" value="CDVInAppBrowser" />
+    </feature>
+    <feature name="SplashScreen">
+        <param name="ios-package" value="CDVSplashScreen" />
+    </feature>
+    <access origin="*" />
+</widget>
